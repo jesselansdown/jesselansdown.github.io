@@ -1,0 +1,16 @@
+title: Jesse Lansdown
+email: jesse.lansdown@research.uwa.edu.au
+description: > # this means to ignore newlines until "baseurl:"
+  PhD candidate at The University of Western Australia / RWTH Aachen University
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
