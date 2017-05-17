@@ -55,23 +55,3 @@ $on-laptop:        800px;
         text-align: center;
     }
 }
-
-
-.404-picture {
-    float: none;
-    margin-left: 1em;
-}
-
-@include media-query($on-palm) {
-    .404-picture {
-    width: 10em;
-        float: none;
-        margin: 0;
-    margin-bottom: 0.1em;
-    }
-
-    .404-picture-container {
-        text-align: center;
-    }
-}
-
