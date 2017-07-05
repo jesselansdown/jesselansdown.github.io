@@ -4,12 +4,12 @@ title: Contact
 permalink: /Contact/
 ---
 
-Address:
-Room 402
-Lehrstuhl B f&uuml;r Mathematik RWTH - Aachen
-Pontdriesch 10-16
-52062 Aachen
-Germany
+**Address:**<br />
+Room 402<br />
+Lehrstuhl B f&uuml;r Mathematik RWTH - Aachen<br />
+Pontdriesch 10-16<br />
+52062 Aachen<br />
+Germany<br />
 
-Email:
+**Email:**<br />
 jesse (dot) lansdown (at) research (dot) uwa (dot) edu (dot) au
