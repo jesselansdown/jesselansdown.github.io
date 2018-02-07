@@ -6,7 +6,7 @@ permalink: /Research/
 
 # Current work
 
-I am currently investigating the existence and non-existence of m-ovoids and related objects in polar spaces.
+I am currently investigating the existence and non-existence of m-ovoids and related objects in polar spaces and their duals.
 
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html).
