@@ -7,7 +7,7 @@ permalink: /Teaching/
 
 ## Lecturing
 
-In Semester 2, 2018, I lectured two weeks of **Geometry (MATH3033)** for John Bamberg at the University of Western Australia. As this was a new unit in 2018, I was also responsible for writing and preparing the content of the 6 lectures that I delivered. 
+In Semester 2, 2018, I lectured two weeks of [**Geometry (MATH3033)**](http://handbooks.uwa.edu.au/unitdetails?code=MATH3033 "MATH3033 Handbook") for John Bamberg at the University of Western Australia. As this was a new unit in 2018, I was also responsible for writing and preparing the content of the 6 lectures that I delivered. 
 
 You can view a supplementary video that I prepared for the unit on primal/dual conics and their Caley-Klein geometries below. In it I show how the Euclidean and hyperbolic geometries introduced in class are simply special cases of something more general.
 
