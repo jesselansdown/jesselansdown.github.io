@@ -4,7 +4,15 @@ title: Software
 permalink: /Software/
 ---
 
-I am responsible for the following software package.
+I am responsible for the following software packages.
+
+# AssociationSchemes
+
+AssociationSchemes is a [GAP](https://www.gap-system.org) package for working with association schemes and homogeneous coherent configurations.
+
+* [AssociationSchemes homepage](http://www.jesselansdown.com/AssociationSchemes/)
+* [Gurobify manual](http://www.jesselansdown.com/AssociationSchemes/doc/manual.pdf)
+
 
 # Gurobify
 
