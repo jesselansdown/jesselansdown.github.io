@@ -11,7 +11,7 @@ I am responsible for the following software packages.
 AssociationSchemes is a [GAP](https://www.gap-system.org) package for working with association schemes and homogeneous coherent configurations.
 
 * [AssociationSchemes homepage](http://www.jesselansdown.com/AssociationSchemes/)
-* [Gurobify manual](http://www.jesselansdown.com/AssociationSchemes/doc/manual.pdf)
+* [AssociationSchemes manual](http://www.jesselansdown.com/AssociationSchemes/doc/manual.pdf)
 
 
 # Gurobify
