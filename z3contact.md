@@ -24,3 +24,6 @@ Australia<br />
 
 **Email:**<br />
 jesse (dot) lansdown (at) research (dot) uwa (dot) edu (dot) au
+
+Below is an interactive illustration of [Desargues' Theorem](https://en.wikipedia.org/wiki/Desargues%27s_theorem). Try dragging the blue dots around!
+<iframe scrolling="no" title="Desargues' Theorem" src="https://www.geogebra.org/material/iframe/id/qvarutjc/width/652/height/469/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="652px" height="469px" style="border:0px;"> </iframe>
