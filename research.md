@@ -4,9 +4,9 @@ title: Research
 permalink: /Research/
 ---
 
-# Current work
-
 I am currently investigating the existence and non-existence of m-ovoids and related objects in polar spaces and their duals.
+
+My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 via [Lansdown &#8594; Bamberg &#8594; Cameron &#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1254184).
 
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html).
