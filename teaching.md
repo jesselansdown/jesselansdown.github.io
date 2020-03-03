@@ -4,6 +4,7 @@ title: Teaching
 permalink: /Teaching/
 ---
 
+In March, 2020, I was admitted as a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)) through the UWA Academy Fellowship Scheme.
 
 ## Lecturing
 
