@@ -8,15 +8,14 @@ In March, 2020, I was admitted as a Fellow of the Higher Education Academy ([FHE
 
 ## Lecturing
 
-**Current**
+<!--- **Current** --->
 
-This trimester I am lecturing two undergraduate units at [Sheridan College](https://www.sheridan.edu.au/):
+In Trimester 1, 2020, I lectured two undergraduate units at [Sheridan College](https://www.sheridan.edu.au/):
 - **Univariate Statistical Analysis** as part of the Bachelor of Business,
 -  **Linear Algebra and Calculus** as part of the Diploma of Science.
+I was responsible for developing both units, since they were new.
 
-I am responsible for developing both units, since they are new.
-
-**Previous**
+<!--- **Previous** --->
 
 In Semester 2, 2018, I lectured two weeks of [**Geometry (MATH3033)**](http://handbooks.uwa.edu.au/unitdetails?code=MATH3033 "MATH3033 Handbook") for John Bamberg at the University of Western Australia. As this was a new unit in 2018, I was also responsible for writing and preparing the content of the 6 lectures that I delivered. 
 
