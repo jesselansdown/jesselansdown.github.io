@@ -28,7 +28,8 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 
 ## Supervision
 
-- Reymond Akpanya, Bachelor thesis, "Manipulation diskreter simplizialer Flächen", co-supervised with Alice Niemeyer, RWTH, 2018.
+- Dominique Douglas-Smith, Honours, TBA, co-supervised with John Bamberg, 2020.
+- Reymond Akpanya, Bachelor thesis, "Manipulation diskreter simplizialer Flächen", co-supervised with Alice Niemeyer and Markus Baumeister, RWTH, 2018.
 
 ## Tutoring
 I have tutored undergraduate courses on linear algebra, calculus and foundational mathematics at the University of Western Australia and the RWTH Aachen University.
