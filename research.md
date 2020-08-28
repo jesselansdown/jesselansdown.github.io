@@ -8,7 +8,7 @@ My research interests lie largely in finite incidence geometry, algebraic combin
 
 My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 via [Lansdown &#8594; Bamberg &#8594; Cameron &#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1254184).
 
-I have refereed for the journal [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics)
+I have refereed for the journal [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics).
 
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html).
