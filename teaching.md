@@ -13,6 +13,7 @@ In March, 2020, I was admitted as a Fellow of the Higher Education Academy ([FHE
 In Trimester 1, 2020, I lectured two undergraduate units at [Sheridan College](https://www.sheridan.edu.au/):
 - **Univariate Statistical Analysis** as part of the Bachelor of Business,
 -  **Linear Algebra and Calculus** as part of the Diploma of Science.
+
 I was responsible for developing both units, since they were new.
 
 <!--- **Previous** --->
