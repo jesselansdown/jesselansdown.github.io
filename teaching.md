@@ -28,7 +28,7 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 
 ## Supervision
 
-- Dominique Douglas-Smith, Honours, TBA, co-supervised with John Bamberg, 2020.
+- Dominique Douglas-Smith, Honours, "Skew Projection", co-supervised with John Bamberg, UWA, 2020.
 - Reymond Akpanya, Bachelor thesis, "Manipulation diskreter simplizialer Flächen", co-supervised with Alice Niemeyer and Markus Baumeister, RWTH, 2018.
 
 ## Tutoring
