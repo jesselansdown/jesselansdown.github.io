@@ -13,7 +13,14 @@ I have refereed for the journal [Discrete Mathematics](https://www.journals.else
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html).
 
-- The Non-Existence of Block-Transitive Subspace Designs, D. R. Hawtin, J. Lansdown, *Submitted* (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf).)
-- A family of hemisystems on the parabolic quadrics, J. Lansdown, A. C. Niemeyer, *Journal of Combinatorial Therory, Series A*, (2020). (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [journal](https://doi.org/10.1016/j.jcta.2020.105280).)
-- On *m*-ovoids of regular near polygons, J. Bamberg, J. Lansdown, M. Lee, *Designs, Codes and Cryptography*, (2018). (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)
-- Bruck nets and partial Sherk planes, J. Bamberg, J. B. Fawcett, J. Lansdown, *Journal of the Australian Mathematical Society*, (2018). (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
+- The Non-Existence of Block-Transitive Subspace Designs, *submitted*.
+With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf).)
+- A family of hemisystems on the parabolic quadrics,
+*Journal of Combinatorial Theory, Series A*, 2020.
+With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [journal](https://doi.org/10.1016/j.jcta.2020.105280).) 
+- On *m*-ovoids of regular near polygons,
+*Designs, Codes and Cryptography*,  2018.
+With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)
+- Bruck nets and partial Sherk planes,
+*Journal of the Australian Mathematical Society*, 2018.
+With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
