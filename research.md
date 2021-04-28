@@ -11,7 +11,7 @@ My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 vi
 I have refereed for the journal [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics).
 
 # Publications
-[See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html).
+[See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note that these may differ slightly from published versions.
 
 - Synchronising primitive groups of diagonal type exist, *preprint*.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf).)
