@@ -13,7 +13,7 @@ I have refereed for the journal [Discrete Mathematics](https://www.journals.else
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
-- Synchronising primitive groups of diagonal type exist, *preprint*.
+- Synchronising primitive groups of diagonal type exist, *submitted*.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf).)
 - The Non-Existence of Block-Transitive Subspace Designs, *submitted*.
 With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf).)
