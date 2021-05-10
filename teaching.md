@@ -28,6 +28,7 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 
 ## Supervision
 
+- Tony Li, PhD, TBA, co-supervised with Gordon Royle, UWA, 2021 - current
 - Ann Linehan, Honours, TBA, co-supervised with John Bamberg, UWA, 2021
 - Dominique Douglas-Smith, Honours, "Skew Projection", co-supervised with John Bamberg, UWA, 2020.
 - Reymond Akpanya, Bachelor thesis, "Manipulation diskreter simplizialer Flächen", co-supervised with Alice Niemeyer and Markus Baumeister, RWTH, 2018.
