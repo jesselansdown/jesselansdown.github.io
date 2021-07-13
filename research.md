@@ -14,7 +14,7 @@ I have refereed for the journals [Discrete Mathematics](https://www.journals.els
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *submitted*.
-With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf)
+With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
 - Synchronising primitive groups of diagonal type exist, *submitted*.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf).)
 - The Non-Existence of Block-Transitive Subspace Designs, *submitted*.
