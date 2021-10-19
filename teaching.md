@@ -30,7 +30,7 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 
 - Ben Spiers, PhD, TBA, co-supervised with Gordon Royle, UWA, 2021 - current
 - Tony Li, PhD, TBA, co-supervised with Gordon Royle, UWA, 2021 - current
-- Ann Linehan, Honours, TBA, co-supervised with John Bamberg, UWA, 2021
+- Ann Linehan, Honours, "Relationships Between Geometric Propositions which Characterise Projective Planes", co-supervised with John Bamberg, UWA, 2021
 - Dominique Douglas-Smith, Honours, ["Skew Projection"](/assets/Dominique_Douglas-Smith-Honours.pdf), co-supervised with John Bamberg, UWA, 2020.
 - Reymond Akpanya, Bachelor thesis, ["Manipulation diskreter simplizialer Flächen"](/assets/Reymond_Akpanya-Bachelorarbeit.pdf), co-supervised with Alice Niemeyer and Markus Baumeister, RWTH, 2018.
 
