@@ -15,7 +15,8 @@ I have refereed for the journals [Discrete Mathematics](https://www.journals.els
 
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *submitted*.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
-- The Non-Existence of Block-Transitive Subspace Designs, *submitted*.
+- The Non-Existence of Block-Transitive Subspace Designs,
+*Combinatorial Theory*, to appear.
 With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf).)
 - Synchronising primitive groups of diagonal type exist,
 *Bulletin of the London Mathematical Society*, to appear.
