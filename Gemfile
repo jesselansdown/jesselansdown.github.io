@@ -23,3 +23,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-commonmark-ghpages'
 end
+
+gem "kramdown", ">= 2.3.0"
