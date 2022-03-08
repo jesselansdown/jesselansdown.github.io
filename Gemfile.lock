@@ -66,11 +66,12 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.6.3)
+  jekyll-commonmark-ghpages
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.4.0p0
 
 BUNDLED WITH
-   2.2.10
+   1.17.0.pre.2
