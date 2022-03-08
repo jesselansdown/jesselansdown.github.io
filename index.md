@@ -3,6 +3,7 @@ title: About me
 use_site_title_in_head: true
 layout: home
 ---
+[![Profile](/assets/profile.png)](/assets/profile.png)
 
 <img align="right" width="100" height="100" src="/assets/profile.png">
 
