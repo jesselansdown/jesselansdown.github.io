@@ -6,7 +6,11 @@ layout: home
 
 ![profile](/assets/profile.png){: style="float: right;  margin-right: 2em;" height="20%" width="20%"}
 
+<p style="text-align: center;">
 <img align="right" width="100" height="100" src="https://www.jesselansdown.com/assets/profile.png">
+</p>
+
+<img style="display: block; margin: auto;" alt="photo" src="{{ site.baseurl }}/assets/profile.png">
 
 <!---
 <div class="profile-picture-container">
