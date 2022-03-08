@@ -6,11 +6,10 @@ layout: home
 
 ![profile](/assets/profile.png)
 
-<!---
+
 <div class="profile-picture-container">
     <img src="/assets/profile.png" class="profile-picture" />
 </div>
---->
 
 I am a mathematician at the University of Western Australia, where I am part of the [Centre for the Mathematics of Symmetry and Computation](http://www.cmsc.uwa.edu.au/).
 
