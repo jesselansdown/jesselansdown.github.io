@@ -4,9 +4,6 @@ use_site_title_in_head: true
 layout: home
 ---
 
-![profile](/assets/profile.png)
-
-
 <div class="profile-picture-container">
     <img src="/assets/profile.png" class="profile-picture" />
 </div>
