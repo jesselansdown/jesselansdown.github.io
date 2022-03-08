@@ -4,9 +4,7 @@ use_site_title_in_head: true
 layout: home
 ---
 
-![aag](/assets/profile.png){: style="float: right;  margin-right: 2em;" height="20%" width="20%"}
-
-<img align="right" width="100" height="100" src="/assets/profile.png">
+![profile](/assets/profile.png){: style="float: right;  margin-right: 2em;" height="20%" width="20%"}
 
 <!---
 <div class="profile-picture-container">
