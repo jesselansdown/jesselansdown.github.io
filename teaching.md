@@ -4,7 +4,11 @@ title: Teaching
 permalink: /Teaching/
 ---
 
-In March, 2020, I was admitted as a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)) through the UWA Academy Fellowship Scheme.
+<!--- 
+In 2020 I was admitted as a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)) through the UWA Academy Fellowship Scheme. In 2021 I earned a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/study/courses/graduate-certificate-in-tertiary-teaching) from UWA.
+--->
+
+I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/study/courses/graduate-certificate-in-tertiary-teaching) from UWA and am a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)).
 
 ## Lecturing
 
