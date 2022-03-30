@@ -8,19 +8,19 @@ My research interests lie largely in finite incidence geometry, algebraic combin
 
 My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 via [Lansdown &#8594; Bamberg](https://mathscinet.ams.org/mathscinet-getitem?mr=3779039) [&#8594; Cameron](https://mathscinet.ams.org/mathscinet-getitem?mr=3763899) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=1106651) or via [Lansdown &#8594; Niemeyer](https://mathscinet.ams.org/mathscinet-getitem?mr=4110234) [&#8594; Seress](https://mathscinet.ams.org/mathscinet-getitem?mr=1953539) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=837951).
 
-I have refereed for the journals [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics) and [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics).
+I have refereed for the journals [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics), [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics) and [Designs, Codes and Cryptography](https://www.springer.com/journal/10623).
 
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *submitted*.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
+- Synchronising primitive groups of diagonal type exist,
 *Bulletin of the London Mathematical Society*, to appear.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf).)
 - The Non-Existence of Block-Transitive Subspace Designs,
-*Combinatorial Theory*, to appear.
+*Combinatorial Theory*, 2022.
 With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf) or [journal](https://doi.org/10.5070/C62156883).)
-- Synchronising primitive groups of diagonal type exist,
 - A family of hemisystems on the parabolic quadrics,
 *Journal of Combinatorial Theory, Series A*, 2020.
 With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [journal](https://doi.org/10.1016/j.jcta.2020.105280).) 
