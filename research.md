@@ -15,12 +15,12 @@ I have refereed for the journals [Discrete Mathematics](https://www.journals.els
 
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *submitted*.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
-- The Non-Existence of Block-Transitive Subspace Designs,
-*Combinatorial Theory*, to appear.
-With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf).)
-- Synchronising primitive groups of diagonal type exist,
 *Bulletin of the London Mathematical Society*, to appear.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf).)
+- The Non-Existence of Block-Transitive Subspace Designs,
+*Combinatorial Theory*, to appear.
+With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf) or [journal](https://doi.org/10.5070/C62156883).)
+- Synchronising primitive groups of diagonal type exist,
 - A family of hemisystems on the parabolic quadrics,
 *Journal of Combinatorial Theory, Series A*, 2020.
 With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [journal](https://doi.org/10.1016/j.jcta.2020.105280).) 
