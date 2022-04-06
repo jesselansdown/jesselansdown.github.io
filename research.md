@@ -17,7 +17,7 @@ I have refereed for the journals [Discrete Mathematics](https://www.journals.els
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
 - Synchronising primitive groups of diagonal type exist,
 *Bulletin of the London Mathematical Society*, to appear.
-With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf).)
+With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf) or [journal](https://doi.org/10.1112/blms.12619).)
 - The Non-Existence of Block-Transitive Subspace Designs,
 *Combinatorial Theory*, 2022.
 With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf) or [journal](https://doi.org/10.5070/C62156883).)
