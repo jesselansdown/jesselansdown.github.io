@@ -13,10 +13,10 @@ I have refereed for the journals [Discrete Mathematics](https://www.journals.els
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
--  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *submitted*.
+-  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *Algebraic Combinatorics*, to appear.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
 - Synchronising primitive groups of diagonal type exist,
-*Bulletin of the London Mathematical Society*, to appear.
+*Bulletin of the London Mathematical Society*, to 2022.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf) or [journal](https://doi.org/10.1112/blms.12619).)
 - The Non-Existence of Block-Transitive Subspace Designs,
 *Combinatorial Theory*, 2022.
