@@ -18,7 +18,7 @@ With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
 - Synchronising primitive groups of diagonal type exist,
 *Bulletin of the London Mathematical Society*, 2022.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf) or [journal](https://doi.org/10.1112/blms.12619).)
-- The Non-Existence of Block-Transitive Subspace Designs,
+- The non-existence of block-transitive subspace designs,
 *Combinatorial Theory*, 2022.
 With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf) or [journal](https://doi.org/10.5070/C62156883).)
 - A family of hemisystems on the parabolic quadrics,
