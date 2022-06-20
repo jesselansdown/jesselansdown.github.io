@@ -13,6 +13,7 @@ I have refereed for the journals [Discrete Mathematics](https://www.journals.els
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
+- A census of small Schurian association schemes, *submitted*. (See  [arXiv](https://arxiv.org/pdf/2206.08663.pdf).)
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *Algebraic Combinatorics*, to appear.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
 - Synchronising primitive groups of diagonal type exist,
