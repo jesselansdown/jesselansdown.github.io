@@ -6,7 +6,7 @@ permalink: /Research/
 
 My research interests lie largely in finite incidence geometry, algebraic combinatorics, and computation.
 
-My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 via [Lansdown &#8594; Bamberg](https://mathscinet.ams.org/mathscinet-getitem?mr=3779039) [&#8594; Cameron](https://mathscinet.ams.org/mathscinet-getitem?mr=3763899) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=1106651) or via [Lansdown &#8594; Niemeyer](https://mathscinet.ams.org/mathscinet-getitem?mr=4110234) [&#8594; Seress](https://mathscinet.ams.org/mathscinet-getitem?mr=1953539) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=837951).
+My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 via [Lansdown &#8594; Bamberg](https://mathscinet.ams.org/mathscinet-getitem?mr=3779039) [&#8594; Cameron](https://mathscinet.ams.org/mathscinet-getitem?mr=3763899) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=1106651) or via [Lansdown &#8594; Niemeyer](https://mathscinet.ams.org/mathscinet-getitem?mr=4110234) [&#8594; Seress](https://mathscinet.ams.org/mathscinet-getitem?mr=1953539) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=837951). 
 
 I have refereed for the journals  [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics), [Designs, Codes and Cryptography](https://www.springer.com/journal/10623), [Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory) and [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics).
 
