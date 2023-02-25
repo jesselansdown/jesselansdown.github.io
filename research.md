@@ -16,7 +16,7 @@ I have refereed for the journals  [European Journal of Combinatorics](https://ww
 - Separating rank 3 graphs, *submitted*. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326).)
 - A census of small Schurian association schemes, *submitted*. (See  [arXiv](https://arxiv.org/pdf/2206.08663.pdf).)
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *Algebraic Combinatorics*, to appear.
-With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf).)
+With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf) or [journal](https://doi.org/10.5802/alco.246).)
 - Synchronising primitive groups of diagonal type exist,
 *Bulletin of the London Mathematical Society*, 2022.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf) or [journal](https://doi.org/10.1112/blms.12619).)
