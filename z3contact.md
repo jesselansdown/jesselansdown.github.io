@@ -14,6 +14,7 @@ Pontdriesch 10-16<br />
 Germany<br />
 --->
 
+<!---
 **Address:**<br />
 Room 1.16<br />
 Centre for the Mathematics of Symmetry and Computation<br />
@@ -21,9 +22,19 @@ The University of Western Australia (M019)<br />
 35 Stirling Highway<br />
 PERTH WA 6009<br />
 Australia<br />
+--->
+
+**Address:**<br />
+Room 607<br />
+School of Mathematics and Statistics<br />
+Jack Erskine Building<br />
+University of Canterbury<br />
+Christchurch 8140<br />
+New Zealand<br />
+
 
 **Email:**<br />
-jesse (dot) lansdown (at) uwa (dot) edu (dot) au
+jesse (dot) lansdown (at) canterbury (dot) ac (dot) nz
 
 Below is an interactive illustration of [Desargues' Theorem](https://en.wikipedia.org/wiki/Desargues%27s_theorem). Try dragging the blue dots around!
 
