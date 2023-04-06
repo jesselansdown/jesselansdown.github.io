@@ -14,20 +14,20 @@ I have refereed for the journals  [European Journal of Combinatorics](https://ww
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
 - A census of small Schurian association schemes, *submitted*. (See  [arXiv](https://arxiv.org/pdf/2206.08663.pdf).)
-- Separating rank 3 graphs, *European Journal of Combinatorics*, to appear. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326).)
--  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, *Algebraic Combinatorics*, 2023.
+- Separating rank 3 graphs, ***European Journal of Combinatorics***, to appear. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326).)
+-  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, ***Algebraic Combinatorics***, 2023.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf) or [journal](https://doi.org/10.5802/alco.246).)
 - Synchronising primitive groups of diagonal type exist,
-*Bulletin of the London Mathematical Society*, 2022.
+***Bulletin of the London Mathematical Society***, 2022.
 With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2104.13355.pdf) or [journal](https://doi.org/10.1112/blms.12619).)
 - The non-existence of block-transitive subspace designs,
-*Combinatorial Theory*, 2022.
+***Combinatorial Theory***, 2022.
 With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf) or [journal](https://doi.org/10.5070/C62156883).)
 - A family of hemisystems on the parabolic quadrics,
-*Journal of Combinatorial Theory, Series A*, 2020.
+***Journal of Combinatorial Theory, Series A***, 2020.
 With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [journal](https://doi.org/10.1016/j.jcta.2020.105280).) 
 - On *m*-ovoids of regular near polygons,
-*Designs, Codes and Cryptography*,  2018.
+***Designs, Codes and Cryptography***,  2018.
 With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)
 - Bruck nets and partial Sherk planes,
 ***Journal of the Australian Mathematical Society***, 2018.
