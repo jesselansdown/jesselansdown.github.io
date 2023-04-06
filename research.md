@@ -30,7 +30,7 @@ With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [j
 *Designs, Codes and Cryptography*,  2018.
 With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)
 - Bruck nets and partial Sherk planes,
-*Journal of the Australian Mathematical Society*, 2018.
+***Journal of the Australian Mathematical Society***, 2018.
 With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
 
 # Doctoral thesis
