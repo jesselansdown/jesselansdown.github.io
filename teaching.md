@@ -12,7 +12,15 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 ## Lecturing
 
+### Current
+
+I am currently a lecturer for the following units at the University of Canterbury:
+- **MATH203 Linear Algebra**
+- **EMTH118 Engineering Mathematics 1A**
+
 <!--- **Current** --->
+
+### Previous courses
 
 In Trimester 1, 2020, I lectured two undergraduate units at [Sheridan College](https://www.sheridan.edu.au/):
 - **Univariate Statistical Analysis** as part of the Bachelor of Business,
