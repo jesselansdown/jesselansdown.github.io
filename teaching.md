@@ -12,19 +12,19 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 ## Lecturing
 
-### At the [University of Canterbury](https://www.canterbury.ac.nz/)
+#### [University of Canterbury](https://www.canterbury.ac.nz/)
 
 - Linear Algebra [(MATH203)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=math203), 2023
 - Engineering Mathematics 1A [(EMTH118)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=EMTH118), 2023
 
 <!--- **Current** --->
 
-### At [Sheridan College](https://www.sheridan.edu.au/)
+#### [Sheridan College](https://www.sheridan.edu.au/)
 
 - Univariate Statistical Analysis, 2020
 - Linear Algebra and Calculus, 2020
 
-### At [The University of Western Australia](http://www.uwa.edu.au/)
+#### [The University of Western Australia](http://www.uwa.edu.au/)
 
 - Geometry [(MATH3033)](http://handbooks.uwa.edu.au/unitdetails?code=MATH3033 "MATH3033 Handbook"), 2018
 
