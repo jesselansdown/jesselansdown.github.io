@@ -14,19 +14,19 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 #### [University of Canterbury](https://www.canterbury.ac.nz/)
 
-- Linear Algebra [(MATH203)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=math203), 2023
-- Engineering Mathematics 1A [(EMTH118)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=EMTH118), 2023
+- [(MATH203)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=math203) Linear Algebra, 2023
+- [(EMTH118)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=EMTH118) Engineering Mathematics 1A, 2023
 
 <!--- **Current** --->
 
 #### [Sheridan College](https://www.sheridan.edu.au/)
 
-- Univariate Statistical Analysis, 2020
-- Linear Algebra and Calculus, 2020
+- (MA220) Univariate Statistical Analysis, 2020
+- (MA101) Linear Algebra and Calculus, 2020
 
 #### [The University of Western Australia](http://www.uwa.edu.au/)
 
-- Geometry [(MATH3033)](http://handbooks.uwa.edu.au/unitdetails?code=MATH3033 "MATH3033 Handbook"), 2018
+- [(MATH3033)](http://handbooks.uwa.edu.au/unitdetails?code=MATH3033 "MATH3033 Handbook") Geometry, 2018
 
 You can view a supplementary video that I prepared for the unit on primal/dual conics and their Caley-Klein geometries below. In it I show how the Euclidean and hyperbolic geometries introduced in class are simply special cases of something more general.
 
