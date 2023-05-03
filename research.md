@@ -13,7 +13,7 @@ I have refereed for the journals  [European Journal of Combinatorics](https://ww
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
-- On Bruen chains, *submitted*. With J. Bamberg and G. Van de Voorde
+- On Bruen chains, *submitted*. With J. Bamberg and G. Van de Voorde. (See  [arXiv](https://arxiv.org/pdf/2305.01349.pdf).)
 - A census of small Schurian association schemes, *submitted*. (See  [arXiv](https://arxiv.org/pdf/2206.08663.pdf).)
 - Separating rank 3 graphs, ***European Journal of Combinatorics***, to appear. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326).)
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, ***Algebraic Combinatorics***, 2023.
