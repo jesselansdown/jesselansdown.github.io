@@ -14,6 +14,7 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 #### [University of Canterbury](https://www.canterbury.ac.nz/)
 
+- [(MATH203)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=math303) Applied Matrix Algebra, 2023
 - [(MATH203)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=math203) Linear Algebra, 2023
 
 <!--- **Current** --->
