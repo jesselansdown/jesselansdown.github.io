@@ -61,6 +61,7 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 
 ## Tutoring
 I have tutored numerous undergraduate courses on linear algebra, calculus and foundational mathematics at the University of Western Australia and the RWTH Aachen University (conducted in German).
+
 <!---
 - **2019 S2:** Multivariable Calculus, Mathematical Theory and Methods, **UWA**.
 - **2019 S1:** Multivariable Calculus, Mathematical Theory and Methods, Mathematics Fundamentals, **UWA**.
