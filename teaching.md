@@ -8,7 +8,7 @@ permalink: /Teaching/
 In 2020 I was admitted as a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)) through the UWA Academy Fellowship Scheme. In 2021 I earned a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/study/courses/graduate-certificate-in-tertiary-teaching) from UWA.
 --->
 
-I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/study/courses/graduate-certificate-in-tertiary-teaching) from UWA and am a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)).
+I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/study/courses/graduate-certificate-in-tertiary-teaching) from the University of Western Australia and am a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)).
 
 ## Lecturing
 
@@ -60,7 +60,8 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 - Reymond Akpanya, Bachelor thesis, ["Manipulation diskreter simplizialer Flächen"](/assets/Reymond_Akpanya-Bachelorarbeit.pdf), co-supervised with Alice Niemeyer and Markus Baumeister, RWTH, 2018.
 
 ## Tutoring
-I have tutored undergraduate courses on linear algebra, calculus and foundational mathematics at the University of Western Australia and the RWTH Aachen University.
+I have tutored numerous undergraduate courses on linear algebra, calculus and foundational mathematics at the University of Western Australia and the RWTH Aachen University (conducted in German).
+<!---
 - **2019 S2:** Multivariable Calculus, Mathematical Theory and Methods, **UWA**.
 - **2019 S1:** Multivariable Calculus, Mathematical Theory and Methods, Mathematics Fundamentals, **UWA**.
 - **2018 S2:** Multivariable Calculus, Mathematical Theory and Methods, **UWA**.
@@ -72,5 +73,6 @@ Mathematics Foundations: Methods, **UWA**.
 - **2015 S2:** Mathematical Methods 2, Mathematics Foundations: Specialist, **UWA**.
 - **2015 S1:** Mathematical Methods 1, Mathematics Foundations: Methods, **UWA**.
 - **2014 S2:** Introductory Mathematics Specialist, **UWA**.
+--->
 
 
