@@ -38,4 +38,5 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.18154/RWTH-2020-12247) or [UWA](https://doi.org/10.26182/krb6-kk43))
 
 # Conferences organised
-[5th Australian Algebra Conference](https://aac05.github.io/)
+- [Combinatorics in Christchurch](https://combinatoricsinchristchurch.github.io/)
+- [5th Australian Algebra Conference](https://aac05.github.io/)
