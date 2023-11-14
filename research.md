@@ -14,8 +14,8 @@ I have refereed for the journals  [European Journal of Combinatorics](https://ww
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
 - On Bruen chains, *submitted*. With J. Bamberg and G. Van de Voorde. (See  [arXiv](https://arxiv.org/pdf/2305.01349.pdf).)
-- A census of small Schurian association schemes, *submitted*. (See  [arXiv](https://arxiv.org/pdf/2206.08663.pdf).)
-- Separating rank 3 graphs, ***European Journal of Combinatorics***, to appear. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326) or [journal](https://doi.org/10.1016/j.ejc.2023.103732).)
+- A census of small Schurian association schemes, ***International Journal of Algebra and Computation***, to appear. (See  [arXiv](https://arxiv.org/pdf/2206.08663.pdf).)
+- Separating rank 3 graphs, ***European Journal of Combinatorics***, 2023. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326) or [journal](https://doi.org/10.1016/j.ejc.2023.103732).)
 -  Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry, ***Algebraic Combinatorics***, 2023.
 With John Bamberg. (See [arXiv](https://arxiv.org/pdf/2107.05207.pdf) or [journal](https://doi.org/10.5802/alco.246).)
 - Synchronising primitive groups of diagonal type exist,
