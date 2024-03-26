@@ -11,6 +11,7 @@ My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 vi
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
+10. Tactical decompositions in finite polar spaces and non-spreading classical group actions, *submitted*. With J. Bamberg, M. Giudici, and G. F. Royle.
 9. On Bruen chains, *submitted*. With J. Bamberg and G. Van de Voorde. (See  [arXiv](https://arxiv.org/pdf/2305.01349.pdf).)
 8. A census of small Schurian association schemes, ***International Journal of Algebra and Computation***, 2024. (See [arXiv](https://arxiv.org/pdf/2206.08663.pdf) or [journal](https://doi.org/10.1142/S0218196723500674).)
 7. Separating rank 3 graphs, ***European Journal of Combinatorics***, 2023. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326) or [journal](https://doi.org/10.1016/j.ejc.2023.103732).)
