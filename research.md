@@ -42,8 +42,8 @@ details {
 }
 summary {
   margin-left: -2em;
-  text-indent: -40px;
-  padding-left: 40px;
+  text-indent: -44px;
+  padding-left: 44px;
 }
 </style>
 
