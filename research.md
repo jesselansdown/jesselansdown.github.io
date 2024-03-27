@@ -42,9 +42,9 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 Tactical decompositions in finite polar spaces and non-spreading classical group actions
 <i>submitted</i>.
 With J. Bamberg, M. Giudici, and G. F. Royle.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -61,9 +61,9 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 On Bruen chains,
 <i>submitted</i>.
 With J. Bamberg and G. Van de Voorde.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -81,9 +81,9 @@ With J. Bamberg and G. Van de Voorde.
 A census of small Schurian association schemes,
 <b><i>International Journal of Algebra and Computation</i></b>, 2024.
 With John Bamberg and Melissa Lee.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2206.08663.pdf">arXiv</a> or <a href="https://doi.org/10.1142/S0218196723500674">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -101,9 +101,9 @@ With John Bamberg and Melissa Lee.
 Separating rank 3 graphs,
 <b><i>European Journal of Combinatorics</i></b>, 2023.
 With John Bamberg, Michael Giudici, and Gordon F. Royle.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2211.02326">arXiv</a> or <a href="https://doi.org/10.1016/j.ejc.2023.103732">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -121,9 +121,9 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry,
 <b><i>Algebraic Combinatorics</i></b>, 2023.
 With John Bamberg.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2107.05207.pdf">arXiv</a> or <a href="https://doi.org/10.5802/alco.246">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -141,9 +141,9 @@ With John Bamberg.
 Synchronising primitive groups of diagonal type exist,
 <b><i>Bulletin of the London Mathematical Society</i></b>, 2022.
 With John Bamberg, Michael Giudici, and Gordon F. Royle.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2104.13355.pdf">arXiv</a> or <a href="https://doi.org/10.1112/blms.12619">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -161,9 +161,9 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 The non-existence of block-transitive subspace designs,
 <b><i>Combinatorial Theory</i></b>, 2022.
 With Daniel R. Hawtin.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/2102.05142.pdf">arXiv</a> or <a href="https://doi.org/10.5070/C62156883">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -181,9 +181,9 @@ With Daniel R. Hawtin.
 A family of hemisystems on the parabolic quadrics
 <b><i>Journal of Combinatorial Theory, Series A</i></b>, 2020.
 With Alice C. Niemeyer.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/1908.08886.pdf">arXiv</a> or <a href="https://doi.org/10.1016/j.jcta.2020.105280">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
@@ -201,9 +201,9 @@ With Alice C. Niemeyer.
 On <i>m</i>-ovoids of regular near polygons,
 <b><i>Designs, Codes and Cryptography</i></b>, 2018.
 With John Bamberg and Melissa Lee.
-<span style="float:right;">
+<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/1612.07187">arXiv</a> or <a href="http://dx.doi.org/10.1007/s10623-017-0373-1">Journal</a> or click for abstract</i>)
- </span>
+ </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
