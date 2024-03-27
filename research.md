@@ -29,13 +29,19 @@ With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [j
 2. On *m*-ovoids of regular near polygons,
 ***Designs, Codes and Cryptography***,  2018.
 With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).) 
-<details>
-<summary>Click for abstract.</summary>
-Abstract
-</details>
 1. Bruck nets and partial Sherk planes,
 ***Journal of the Australian Mathematical Society***, 2018.
 With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
+
+<details>
+<summary>
+Bruck nets and partial Sherk planes,
+<b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
+With John Bamberg and Joanna B. Fawcett.
+</summary>
+Abstract
+</details>
+
 
 # Doctoral thesis
 Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.18154/RWTH-2020-12247) or [UWA](https://doi.org/10.26182/krb6-kk43))
