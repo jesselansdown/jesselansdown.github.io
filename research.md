@@ -34,7 +34,7 @@ With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187
 With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
 
 <!-- Next publication-->
-<!--- In progress
+<!-- In progress
 <details>
 <summary>
 2.&nbsp;
@@ -51,9 +51,9 @@ With John Bamberg and Melissa Lee.
 </p>
 <br>
 </details>
---->
+-->
 <!-- Next publication-->
-<!--- In progress
+<!-- In progress
 <details>
 <summary>
 1.&nbsp;
@@ -71,7 +71,7 @@ With John Bamberg and Joanna B. Fawcett.
 <br>
 </details>
 <br>
---->
+-->
 
 # Doctoral thesis
 Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.18154/RWTH-2020-12247) or [UWA](https://doi.org/10.26182/krb6-kk43))
