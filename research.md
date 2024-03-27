@@ -61,7 +61,6 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 <!-- Next publication-->
@@ -78,7 +77,6 @@ With J. Bamberg and G. Van de Voorde.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 
@@ -95,7 +93,6 @@ A census of small Schurian association schemes,
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 
@@ -113,7 +110,6 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 
@@ -131,7 +127,6 @@ With John Bamberg.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 
@@ -149,7 +144,6 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 
@@ -167,7 +161,6 @@ With Daniel R. Hawtin.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 
@@ -185,7 +178,6 @@ With Alice C. Niemeyer.
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 <!-- Next publication-->
@@ -199,6 +191,7 @@ With John Bamberg and Melissa Lee.
 (<i> See <a href="https://arxiv.org/pdf/1612.07187">arXiv</a> or <a href="http://dx.doi.org/10.1007/s10623-017-0373-1">Journal</a>. Click for abstract</i>)
 </summary>
 <p>
+<br>
 <b>Abstract:</b> TODO
 </p>
 </details>
@@ -217,8 +210,8 @@ With John Bamberg and Joanna B. Fawcett.
 <p>
 <b>Abstract:</b> In Bachmann [Aufbau der Geometrie aus dem Spiegelungsbegriff, Die Grundlehren der mathematischen Wissenschaften, Bd. XCVI (Springer, Berlin–Göttingen–Heidelberg, 1959)], it was shown that a finite metric plane is a Desarguesian affine plane of odd order equipped with a perpendicularity relation on lines and that the converse is also true. Sherk [‘Finite incidence structures with orthogonality’, Canad. J. Math.19 (1967), 1078–1083] generalised this result to characterise the finite affine planes of odd order by removing the ‘three reflections axioms’ from a metric plane. We show that one can obtain a larger class of natural finite geometries, the so-called Bruck nets of even degree, by weakening Sherk’s axioms to allow noncollinear points.
 </p>
-<br>
 </details>
+<br>
 
 
 # Doctoral thesis
