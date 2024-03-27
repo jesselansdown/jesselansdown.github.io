@@ -38,7 +38,7 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 
 <style>
 details {
-  margin-left: 2em;
+  margin-left: 4em;
 }
 summary {
   margin-left: -2em;
