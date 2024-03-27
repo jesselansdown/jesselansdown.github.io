@@ -199,10 +199,9 @@ With John Bamberg and Melissa Lee.
 details {
   margin-left: 2em;
 }
-
 summary {
   margin-left: -2em;
-  style=“text-indent: -36px;
+  text-indent: -36px;
   padding-left: 36px;
 }
 </style>
