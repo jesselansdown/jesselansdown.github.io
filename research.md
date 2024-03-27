@@ -202,6 +202,8 @@ details {
 
 summary {
   margin-left: -2em;
+  style=“text-indent: -36px;
+  padding-left: 36px;
 }
 </style>
 
