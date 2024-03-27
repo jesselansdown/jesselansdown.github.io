@@ -11,6 +11,7 @@ My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 vi
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
+<!---
 10. Tactical decompositions in finite polar spaces and non-spreading classical group actions, *submitted*. With J. Bamberg, M. Giudici, and G. F. Royle. (See [arXiv](https://arxiv.org/pdf/2403.17576.pdf).)
 9. On Bruen chains, *submitted*. With J. Bamberg and G. Van de Voorde. (See  [arXiv](https://arxiv.org/pdf/2305.01349.pdf).)
 8. A census of small Schurian association schemes, ***International Journal of Algebra and Computation***, 2024. (See [arXiv](https://arxiv.org/pdf/2206.08663.pdf) or [journal](https://doi.org/10.1142/S0218196723500674).)
@@ -32,7 +33,7 @@ With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187
 1. Bruck nets and partial Sherk planes,
 ***Journal of the Australian Mathematical Society***, 2018.
 With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
-
+--->
 
 
 
