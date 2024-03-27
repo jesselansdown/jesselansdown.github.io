@@ -89,7 +89,6 @@ With J. Bamberg and G. Van de Voorde.
 8.&nbsp;
 A census of small Schurian association schemes,
 <b><i>International Journal of Algebra and Computation</i></b>, 2024.
-With John Bamberg and Melissa Lee.
 (<i> See <a href="https://arxiv.org/pdf/2206.08663.pdf">arXiv</a> or <a href="https://doi.org/10.1142/S0218196723500674">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
