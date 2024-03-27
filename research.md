@@ -172,7 +172,12 @@ With Daniel R. Hawtin.
 <br>
 </details>
 
-
+details {
+  margin-left: 2em;
+}
+summary {
+  margin-left: -2em;
+}
 <!-- Next publication-->
 
 <details>
