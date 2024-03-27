@@ -197,7 +197,7 @@ With John Bamberg and Melissa Lee.
 
 <details>
 <summary>
-<div style = “text-indent: -36px; padding-left: 40px;”>
+<span style = “text-indent: -36px; padding-left: 40px;”>
 <p>
 1.&nbsp;
 Bruck nets and partial Sherk planes,
@@ -205,7 +205,7 @@ Bruck nets and partial Sherk planes,
 With John Bamberg and Joanna B. Fawcett.
 (<i> See <a href="https://arxiv.org/pdf/1601.07231">arXiv</a> or <a href="http://dx.doi.org/10.1017/S144678871700009X">Journal</a>. Click for abstract</i>)
 </p>
-</div>
+</span>
 </summary>
 <br>
 <p style="margin-left:2em;">
