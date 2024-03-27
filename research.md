@@ -11,7 +11,7 @@ My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 vi
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
 
-10. Tactical decompositions in finite polar spaces and non-spreading classical group actions, *submitted*. With J. Bamberg, M. Giudici, and G. F. Royle.
+10. Tactical decompositions in finite polar spaces and non-spreading classical group actions, *submitted*. With J. Bamberg, M. Giudici, and G. F. Royle. (See [arXiv](http://arxiv.org/pdf/2403.17576).)
 9. On Bruen chains, *submitted*. With J. Bamberg and G. Van de Voorde. (See  [arXiv](https://arxiv.org/pdf/2305.01349.pdf).)
 8. A census of small Schurian association schemes, ***International Journal of Algebra and Computation***, 2024. (See [arXiv](https://arxiv.org/pdf/2206.08663.pdf) or [journal](https://doi.org/10.1142/S0218196723500674).)
 7. Separating rank 3 graphs, ***European Journal of Combinatorics***, 2023. With John Bamberg, Michael Giudici, and Gordon F. Royle. (See [arXiv](https://arxiv.org/pdf/2211.02326) or [journal](https://doi.org/10.1016/j.ejc.2023.103732).)
@@ -29,7 +29,8 @@ With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [j
 2. On *m*-ovoids of regular near polygons,
 ***Designs, Codes and Cryptography***,  2018.
 With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)
-+ <details>
++ 
+<details>
 <summary>Click for abstract.</summary>
 Abstract
 </details>
