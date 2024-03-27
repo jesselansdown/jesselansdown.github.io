@@ -221,6 +221,7 @@ With John Bamberg and Joanna B. Fawcett.
 </p>
 <br>
 </details>
+<br>
 
 
 # Doctoral thesis
