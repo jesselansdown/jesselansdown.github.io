@@ -194,7 +194,7 @@ With Alice C. Niemeyer.
 
 
 <!-- Next publication-->
-<p style="margin-left:5em;">
+<p style="text-indent: -36px;">
 <details>
 <summary>
 test test test test test test test test test test test test test test test test test test test test test test test test test test
