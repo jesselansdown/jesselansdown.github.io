@@ -28,7 +28,8 @@ With Daniel R. Hawtin. (See [arXiv](https://arxiv.org/pdf/2102.05142.pdf) or [jo
 With Alice C. Niemeyer. (See [arXiv](https://arxiv.org/pdf/1908.08886.pdf) or [journal](https://doi.org/10.1016/j.jcta.2020.105280).) 
 2. On *m*-ovoids of regular near polygons,
 ***Designs, Codes and Cryptography***,  2018.
-With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)<details>
+With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187) or [journal](http://dx.doi.org/10.1007/s10623-017-0373-1).)
+<details>
 <summary>Click for abstract.</summary>
 Abstract
 </details>
