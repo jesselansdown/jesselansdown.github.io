@@ -197,7 +197,7 @@ With John Bamberg and Melissa Lee.
 
 <details>
 <summary>
-<p style="display:inline;text-indent: -36px;">
+<p style="text-indent: -36px;">
 1.&nbsp;
 Bruck nets and partial Sherk planes,
 <b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
