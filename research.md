@@ -60,7 +60,7 @@ or
 Bruck nets and partial Sherk planes,
 <b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
 With John Bamberg and Joanna B. Fawcett.
-(<it>click for details</it>)
+(<i>click for details</i>)
 </summary>
 &bull; See
 <a href="https://arxiv.org/pdf/1601.07231">arXiv</a>
