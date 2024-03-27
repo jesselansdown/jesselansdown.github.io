@@ -33,8 +33,168 @@ With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187
 ***Journal of the Australian Mathematical Society***, 2018.
 With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
 
+
 <!-- Next publication-->
-<!-- In progress
+
+<details>
+<summary>
+10.&nbsp;
+Tactical decompositions in finite polar spaces and non-spreading classical group actions
+<i>submitted</i>.
+With J. Bamberg, M. Giudici, and G. F. Royle.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+<!-- Next publication-->
+
+<details>
+<summary>
+9.&nbsp;
+On Bruen chains,
+<i>submitted</i>.
+With J. Bamberg and G. Van de Voorde.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
+8.&nbsp;
+A census of small Schurian association schemes,
+<b><i>International Journal of Algebra and Computation</i></b>, 2024.
+With John Bamberg and Melissa Lee.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2206.08663.pdf">arXiv</a> or <a href="https://doi.org/10.1142/S0218196723500674">Journal</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
+7.&nbsp;
+Separating rank 3 graphs,
+<b><i>European Journal of Combinatorics</i></b>, 2023.
+With John Bamberg, Michael Giudici, and Gordon F. Royle.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2211.02326">arXiv</a> or <a href="https://doi.org/10.1016/j.ejc.2023.103732">Journal</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
+6.&nbsp;
+Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry,
+<b><i>Algebraic Combinatorics</i></b>, 2023.
+With John Bamberg.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2107.05207.pdf">arXiv</a> or <a href="https://doi.org/10.5802/alco.246">Journal</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
+5.&nbsp;
+Synchronising primitive groups of diagonal type exist,
+<b><i>Bulletin of the London Mathematical Society</i></b>, 2022.
+With John Bamberg, Michael Giudici, and Gordon F. Royle.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2104.13355.pdf">arXiv</a> or <a href="https://doi.org/10.1112/blms.12619">Journal</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
+4.&nbsp;
+The non-existence of block-transitive subspace designs,
+<b><i>Combinatorial Theory</i></b>, 2022.
+With Daniel R. Hawtin.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/2102.05142.pdf">arXiv</a> or <a href="https://doi.org/10.5070/C62156883">Journal</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
+3.&nbsp;
+A family of hemisystems on the parabolic quadrics
+<b><i>Journal of Combinatorial Theory, Series A</i></b>, 2020.
+With Alice C. Niemeyer.
+<span style="float:right;">
+(<i> See <a href="https://arxiv.org/pdf/1908.08886.pdf">arXiv</a> or <a href="https://doi.org/10.1016/j.jcta.2020.105280">Journal</a> or click for abstract</i>)
+ </span>
+</summary>
+<br>
+<p style="margin-left:2em;">
+<b>Abstract:</b> TODO
+</p>
+<br>
+</details>
+
+
+<!-- Next publication-->
+
 <details>
 <summary>
 2.&nbsp;
@@ -51,10 +211,9 @@ With John Bamberg and Melissa Lee.
 </p>
 <br>
 </details>
--->
+
 <!-- Next publication-->
 
-<!-- In progress
 <details>
 <summary>
 1.&nbsp;
@@ -71,9 +230,7 @@ With John Bamberg and Joanna B. Fawcett.
 </p>
 <br>
 </details>
-<br>
 
--->
 
 # Doctoral thesis
 Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.18154/RWTH-2020-12247) or [UWA](https://doi.org/10.26182/krb6-kk43))
