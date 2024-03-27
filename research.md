@@ -38,8 +38,9 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 Bruck nets and partial Sherk planes,
 <b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
 With John Bamberg and Joanna B. Fawcett.
-(click for details)
+(<it>click for details</it>)
 </summary>
+<br>
 See
 <a href="https://arxiv.org/pdf/1601.07231">arXiv</a>
 or
