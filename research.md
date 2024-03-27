@@ -64,7 +64,12 @@ With John Bamberg and Joanna B. Fawcett.
 </details>
 <br>
 
-
+<p style="text-align:left;">
+    This text is left aligned
+    <span style="float:right;">
+        This text is right aligned
+    </span>
+</p>
 
 # Doctoral thesis
 Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.18154/RWTH-2020-12247) or [UWA](https://doi.org/10.26182/krb6-kk43))
