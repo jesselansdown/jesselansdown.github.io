@@ -181,9 +181,7 @@ With Daniel R. Hawtin.
 A family of hemisystems on the parabolic quadrics
 <b><i>Journal of Combinatorial Theory, Series A</i></b>, 2020.
 With Alice C. Niemeyer.
-<p style="text-align:right;">
 (<i> See <a href="https://arxiv.org/pdf/1908.08886.pdf">arXiv</a> or <a href="https://doi.org/10.1016/j.jcta.2020.105280">Journal</a> or click for abstract</i>)
- </p>
 </summary>
 <br>
 <p style="margin-left:2em;">
