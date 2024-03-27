@@ -53,6 +53,7 @@ With John Bamberg and Melissa Lee.
 </details>
 -->
 <!-- Next publication-->
+
 <!-- In progress
 <details>
 <summary>
@@ -71,6 +72,7 @@ With John Bamberg and Joanna B. Fawcett.
 <br>
 </details>
 <br>
+
 -->
 
 # Doctoral thesis
