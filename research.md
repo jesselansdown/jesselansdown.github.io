@@ -197,13 +197,15 @@ With John Bamberg and Melissa Lee.
 
 <details>
 <summary>
-<p style="text-indent: -36px;">
+<div style = “display:inline; text-indent: -36px; padding-left: 36px;”>
+<p>
 1.&nbsp;
 Bruck nets and partial Sherk planes,
 <b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
 With John Bamberg and Joanna B. Fawcett.
 (<i> See <a href="https://arxiv.org/pdf/1601.07231">arXiv</a> or <a href="http://dx.doi.org/10.1017/S144678871700009X">Journal</a>. Click for abstract</i>)
 </p>
+</div>
 </summary>
 <br>
 <p style="margin-left:2em;">
