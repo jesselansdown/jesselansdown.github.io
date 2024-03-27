@@ -38,10 +38,10 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 
 <style>
 details {
-  margin-left: 6em;
+  margin-left: 2em;
 }
 summary {
-  margin-left: -2em;
+  margin-left: -6em;
   text-indent: -45px;
   padding-left: 45px;
 }
