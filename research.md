@@ -198,11 +198,9 @@ On <i>m</i>-ovoids of regular near polygons,
 With John Bamberg and Melissa Lee.
 (<i> See <a href="https://arxiv.org/pdf/1612.07187">arXiv</a> or <a href="http://dx.doi.org/10.1007/s10623-017-0373-1">Journal</a>. Click for abstract</i>)
 </summary>
-<br>
 <p>
 <b>Abstract:</b> TODO
 </p>
-<br>
 </details>
 
 <!-- Next publication-->
