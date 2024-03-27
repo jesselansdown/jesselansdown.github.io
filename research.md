@@ -35,7 +35,6 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 
 <!--- In progress
 <!-- Next publication-->
-
 <details>
 <summary>
 2.&nbsp;
@@ -52,9 +51,7 @@ With John Bamberg and Melissa Lee.
 </p>
 <br>
 </details>
-
 <!-- Next publication-->
-
 <details>
 <summary>
 1.&nbsp;
