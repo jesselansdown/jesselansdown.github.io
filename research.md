@@ -197,7 +197,7 @@ With John Bamberg and Melissa Lee.
 
 <details>
 <summary>
-<div style = “display:inline; text-indent: -36px; padding-left: 36px;”>
+<div style = “display:inline; text-indent: -36px; padding-left: 40px;”>
 <p>
 1.&nbsp;
 Bruck nets and partial Sherk planes,
