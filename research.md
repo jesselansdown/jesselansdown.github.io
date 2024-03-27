@@ -68,7 +68,7 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 
 <details>
 <summary>
-9.&nbsp;
+&nbsp;9.&nbsp;
 On Bruen chains,
 <i>submitted</i>.
 With J. Bamberg and G. Van de Voorde.
@@ -86,7 +86,7 @@ With J. Bamberg and G. Van de Voorde.
 
 <details>
 <summary>
-8.&nbsp;
+&nbsp;8.&nbsp;
 A census of small Schurian association schemes,
 <b><i>International Journal of Algebra and Computation</i></b>, 2024.
 (<i> See <a href="https://arxiv.org/pdf/2206.08663.pdf">arXiv</a> or <a href="https://doi.org/10.1142/S0218196723500674">Journal</a>. Click for abstract</i>)
@@ -103,7 +103,7 @@ A census of small Schurian association schemes,
 
 <details>
 <summary>
-7.&nbsp;
+&nbsp;7.&nbsp;
 Separating rank 3 graphs,
 <b><i>European Journal of Combinatorics</i></b>, 2023.
 With John Bamberg, Michael Giudici, and Gordon F. Royle.
@@ -121,7 +121,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 
 <details>
 <summary>
-6.&nbsp;
+&nbsp;6.&nbsp;
 Implications of vanishing Krein parameters on Delsarte designs, with applications in finite geometry,
 <b><i>Algebraic Combinatorics</i></b>, 2023.
 With John Bamberg.
@@ -139,7 +139,7 @@ With John Bamberg.
 
 <details>
 <summary>
-5.&nbsp;
+&nbsp;5.&nbsp;
 Synchronising primitive groups of diagonal type exist,
 <b><i>Bulletin of the London Mathematical Society</i></b>, 2022.
 With John Bamberg, Michael Giudici, and Gordon F. Royle.
@@ -157,7 +157,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 
 <details>
 <summary>
-4.&nbsp;
+&nbsp;4.&nbsp;
 The non-existence of block-transitive subspace designs,
 <b><i>Combinatorial Theory</i></b>, 2022.
 With Daniel R. Hawtin.
@@ -175,7 +175,7 @@ With Daniel R. Hawtin.
 
 <details>
 <summary>
-3.&nbsp;
+&nbsp;3.&nbsp;
 A family of hemisystems on the parabolic quadrics
 <b><i>Journal of Combinatorial Theory, Series A</i></b>, 2020.
 With Alice C. Niemeyer.
@@ -192,7 +192,7 @@ With Alice C. Niemeyer.
 
 <details>
 <summary>
-2.&nbsp;
+&nbsp;2.&nbsp;
 On <i>m</i>-ovoids of regular near polygons,
 <b><i>Designs, Codes and Cryptography</i></b>, 2018.
 With John Bamberg and Melissa Lee.
