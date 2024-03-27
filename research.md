@@ -39,11 +39,11 @@ Bruck nets and partial Sherk planes,
 <b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
 With John Bamberg and Joanna B. Fawcett.
 </summary>
-
-**Abstract:** In Bachmann [Aufbau der Geometrie aus dem Spiegelungsbegriff, Die Grundlehren der mathematischen Wissenschaften, Bd. XCVI (Springer, Berlin–Göttingen–Heidelberg, 1959)], it was shown that a finite metric plane is a Desarguesian affine plane of odd order equipped with a perpendicularity relation on lines and that the converse is also true. Sherk [‘Finite incidence structures with orthogonality’, Canad. J. Math.19 (1967), 1078–1083] generalised this result to characterise the finite affine planes of odd order by removing the ‘three reflections axioms’ from a metric plane. We show that one can obtain a larger class of natural finite geometries, the so-called Bruck nets of even degree, by weakening Sherk’s axioms to allow noncollinear points.
-
+<br>
+<b>Abstract:<b> In Bachmann [Aufbau der Geometrie aus dem Spiegelungsbegriff, Die Grundlehren der mathematischen Wissenschaften, Bd. XCVI (Springer, Berlin–Göttingen–Heidelberg, 1959)], it was shown that a finite metric plane is a Desarguesian affine plane of odd order equipped with a perpendicularity relation on lines and that the converse is also true. Sherk [‘Finite incidence structures with orthogonality’, Canad. J. Math.19 (1967), 1078–1083] generalised this result to characterise the finite affine planes of odd order by removing the ‘three reflections axioms’ from a metric plane. We show that one can obtain a larger class of natural finite geometries, the so-called Bruck nets of even degree, by weakening Sherk’s axioms to allow noncollinear points.
+<br>
 </details>
-
+<br>
 
 # Doctoral thesis
 Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.18154/RWTH-2020-12247) or [UWA](https://doi.org/10.26182/krb6-kk43))
