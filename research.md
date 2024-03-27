@@ -34,6 +34,19 @@ With John Bamberg and Melissa Lee. (See [arXiv](https://arxiv.org/pdf/1612.07187
 With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601.07231) or [journal](http://dx.doi.org/10.1017/S144678871700009X).)
 
 
+
+
+<style>
+details {
+  margin-left: 2em;
+}
+summary {
+  margin-left: -2em;
+  text-indent: -36px;
+  padding-left: 36px;
+}
+</style>
+
 <!-- Next publication-->
 
 <details>
@@ -45,7 +58,7 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 (<i> See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -62,7 +75,7 @@ With J. Bamberg and G. Van de Voorde.
 (<i> See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -80,7 +93,7 @@ With John Bamberg and Melissa Lee.
 (<i> See <a href="https://arxiv.org/pdf/2206.08663.pdf">arXiv</a> or <a href="https://doi.org/10.1142/S0218196723500674">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -98,7 +111,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 (<i> See <a href="https://arxiv.org/pdf/2211.02326">arXiv</a> or <a href="https://doi.org/10.1016/j.ejc.2023.103732">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -116,7 +129,7 @@ With John Bamberg.
 (<i> See <a href="https://arxiv.org/pdf/2107.05207.pdf">arXiv</a> or <a href="https://doi.org/10.5802/alco.246">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -134,7 +147,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 (<i> See <a href="https://arxiv.org/pdf/2104.13355.pdf">arXiv</a> or <a href="https://doi.org/10.1112/blms.12619">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -152,7 +165,7 @@ With Daniel R. Hawtin.
 (<i> See <a href="https://arxiv.org/pdf/2102.05142.pdf">arXiv</a> or <a href="https://doi.org/10.5070/C62156883">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -170,7 +183,7 @@ With Alice C. Niemeyer.
 (<i> See <a href="https://arxiv.org/pdf/1908.08886.pdf">arXiv</a> or <a href="https://doi.org/10.1016/j.jcta.2020.105280">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
@@ -187,24 +200,13 @@ With John Bamberg and Melissa Lee.
 (<i> See <a href="https://arxiv.org/pdf/1612.07187">arXiv</a> or <a href="http://dx.doi.org/10.1007/s10623-017-0373-1">Journal</a>. Click for abstract</i>)
 </summary>
 <br>
-<p style="margin-left:2em;">
+<p>
 <b>Abstract:</b> TODO
 </p>
 <br>
 </details>
 
 <!-- Next publication-->
-
-<style>
-details {
-  margin-left: 2em;
-}
-summary {
-  margin-left: -2em;
-  text-indent: -36px;
-  padding-left: 36px;
-}
-</style>
 
 <details>
 <summary>
