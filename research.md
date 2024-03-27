@@ -38,7 +38,7 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 
 <details>
 <summary>
-2.
+2.&nbsp;
 On <i>m</i>-ovoids of regular near polygons,
 <b><i>Designs, Codes and Cryptography</i></b>, 2018.
 With John Bamberg and Melissa Lee.
@@ -57,7 +57,7 @@ With John Bamberg and Melissa Lee.
 
 <details>
 <summary>
-1.
+1.&nbsp;
 Bruck nets and partial Sherk planes,
 <b><i>Journal of the Australian Mathematical Society</i></b>, 2018.
 With John Bamberg and Joanna B. Fawcett.
