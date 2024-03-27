@@ -194,6 +194,14 @@ With Alice C. Niemeyer.
 
 
 <!-- Next publication-->
+<p>
+<details>
+<summary>
+test
+</summary>
+test2
+</details>
+</p>
 
 <details>
 <summary>
