@@ -260,7 +260,7 @@ With John Bamberg and Joanna B. Fawcett.
 </summary>
 <br>
 <p>
-<font color="#36454F">
+<font color="#708090">
 <b>Abstract:</b> In <i>Bachmann’s Aufbau der Geometrie aus dem Spiegelungsbegriff</i> (1959), it was shown that a finite metric plane is a Desarguesian affine plane of odd order equipped with a perpendicularity relation on lines, and conversely. Sherk (1967) generalised this result to charac- terise the finite affine planes of odd order by removing the ‘three reflections axioms’ from a metric plane. We show that one can obtain a larger class of natural finite geometries, the so-called <i>Bruck nets</i> of even degree, by weakening Sherk’s axioms to allow non-collinear points.
 </font>
 </p>
