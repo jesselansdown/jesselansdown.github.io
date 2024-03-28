@@ -56,7 +56,7 @@ summary {
 Tactical decompositions in finite polar spaces and non-spreading classical group actions
 <i>submitted</i>.
 With J. Bamberg, M. Giudici, and G. F. Royle.
-(<i> See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or <font color="#2a7ae2">abstract</font></i>.)
+(<i>See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or <font color="#2a7ae2">abstract</font></i>.)
 </summary>
 <br>
 <p>
