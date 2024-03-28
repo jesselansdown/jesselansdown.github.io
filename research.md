@@ -193,7 +193,7 @@ With Daniel R. Hawtin.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> Let $q$ be a prime power and $V\cong\mathbb{F}_q^d$. A \emph{$t$-$(d,k,\lambda)_q$ design}, or simply a <i>subspace design</i>, is a pair $\mathcal{D}=(V,\B)$, where $\mathcal{B}$ is a subset of the set of all $k$-dimensional subspaces of $V$, with the property that each $t$-dimensional subspace of $V$ is contained in precisely $\lambda$ elements of $\B$. Subspace designs are the \emph{$q$-analogues} of balanced incomplete block designs. Such a design is called <i>block-transitive</i> if its automorphism group $\mathrm{Aut}(\mathcal{D})$ acts transitively on $\mathcal{B}$. It is shown here that if $t\geqslant 2$ and $\mathcal{D}$ is a block-transitive $t$-$(d,k,\lambda)_q$ design then $\D$ is trivial, that is, $\mathcal{B}$ is the set of all $k$-dimensional subspaces of $V$.
+<b>Abstract:</b> Let $q$ be a prime power and $V\cong\mathbb{F}_q^d$. A \emph{$t$-$(d,k,\lambda)_q$ design}, or simply a <i>subspace design</i>, is a pair $\mathcal{D}=(V,\mathcal{B})$, where $\mathcal{B}$ is a subset of the set of all $k$-dimensional subspaces of $V$, with the property that each $t$-dimensional subspace of $V$ is contained in precisely $\lambda$ elements of $\mathcal{B}$. Subspace designs are the \emph{$q$-analogues} of balanced incomplete block designs. Such a design is called <i>block-transitive</i> if its automorphism group $\mathrm{Aut}(\mathcal{D})$ acts transitively on $\mathcal{B}$. It is shown here that if $t\geqslant 2$ and $\mathcal{D}$ is a block-transitive $t$-$(d,k,\lambda)_q$ design then $\mathcal{D}$ is trivial, that is, $\mathcal{B}$ is the set of all $k$-dimensional subspaces of $V$.
 </p>
 </details>
 
