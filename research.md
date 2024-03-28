@@ -36,6 +36,17 @@ With John Bamberg and Joanna B. Fawcett. (See [arXiv](https://arxiv.org/pdf/1601
 --->
 
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
 <style>
 details {
   margin-left: 2em;
@@ -75,7 +86,7 @@ With J. Bamberg and G. Van de Voorde.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO $n$
+<b>Abstract:</b> TODO
 </p>
 </details>
 
