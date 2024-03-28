@@ -226,7 +226,7 @@ With John Bamberg and Melissa Lee.
 </summary>
 <p>
 <br>
-<b>Abstract:</b> We generalise the work of Segre (1965), Cameron – Goethals – Seidel (1978), and Vanhove (2011) by showing that nontrivial $m$-ovoids of the dual polar spaces $\mathsf{DQ}(2d, q)$, $\mathsf{DW}(2d − 1, q)$ and $\mathsf{DH}(2d − 1, q^2)$ $(d > 3)$ are hemisystems. We also provide a more general result that holds for regular near polygons.
+<b>Abstract:</b> We generalise the work of Segre (1965), Cameron – Goethals – Seidel (1978), and Vanhove (2011) by showing that nontrivial $m$-ovoids of the dual polar spaces $\mathsf{DQ}(2d,q)$, $\mathsf{DW}(2d-1,q)$ and $\mathsf{DH}(2d-1,q^2)$ $(d>3)$ are hemisystems. We also provide a more general result that holds for regular near polygons.
 </p>
 </details>
 
