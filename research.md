@@ -96,7 +96,7 @@ With J. Bamberg and G. Van de Voorde.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> It is known that a Bruen chain of the three-dimensional projective space $\mathrm{PG}(3,q)$ exists for every odd prime power $q$ at most $37$, except for $q=29$. It was shown by Cardinali et. al (2005) that Bruen chains do not exist for $41\le q\leq 49$. We develop a model, based on finite fields, which allows us to extend this result to $41\le q \le \largestnumber$, thereby adding more evidence to the conjecture that Bruen chains do not exist for $q>37$. 
+<b>Abstract:</b> It is known that a Bruen chain of the three-dimensional projective space $\mathrm{PG}(3,q)$ exists for every odd prime power $q$ at most $37$, except for $q=29$. It was shown by Cardinali et. al (2005) that Bruen chains do not exist for $41\le q\leq 49$. We develop a model, based on finite fields, which allows us to extend this result to $41\le q \le 97$, thereby adding more evidence to the conjecture that Bruen chains do not exist for $q>37$. 
 Furthermore, we show that Bruen chains can be realised precisely as the $(q+1)/2$-cliques of a two related, yet distinct, undirected simple graphs. 
 </p>
 </details>
