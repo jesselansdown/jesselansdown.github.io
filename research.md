@@ -50,7 +50,7 @@ MathJax = {
 <style>
 details {
   margin-left: 2em;
-  padding-left: 10px;
+  padding-left: 2em;
 }
 summary {
   margin-left: -2em;
