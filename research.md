@@ -70,7 +70,7 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> For finite classical groups acting naturally on the set of points of their ambient polar spaces,
 the symmetry properties of <i>synchronising</i> and <i>separating</i> are equivalent
 to natural and well-studied problems on the existence of certain configurations
@@ -98,7 +98,7 @@ With J. Bamberg and G. Van de Voorde.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> It is known that a Bruen chain of the three-dimensional projective space $\mathrm{PG}(3,q)$ exists for every odd prime power $q$ at most $37$, except for $q=29$. It was shown by Cardinali et. al (2005) that Bruen chains do not exist for $41\leqslant q\leqslant 49$. We develop a model, based on finite fields, which allows us to extend this result to $41\leqslant q \leqslant 97$, thereby adding more evidence to the conjecture that Bruen chains do not exist for $q>37$. 
 Furthermore, we show that Bruen chains can be realised precisely as the $(q+1)/2$-cliques of a two related, yet distinct, undirected simple graphs. 
 </font>
@@ -117,7 +117,7 @@ A census of small Schurian association schemes,
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> Using the classification of transitive groups of degree $n$, for $2 \leqslant n \leqslant 48$,
 we classify the Schurian association schemes of order $n$, and as a consequence, the transitive groups of degree $n$ that are $2$-closed. In addition, we compute the character table of each association scheme and provide a census of important properties. Finally, we compute the $2$-closure of each transitive group of degree $n$, for $2 \leqslant n \leqslant 48$. The results of this classification are made available as a supplementary database.
 </font>
@@ -137,7 +137,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> We classify, up to some notoriously hard cases, the vertex-primitive strongly regular graphs which meet both the Delsarte and Hoffman bounds. As a consequence, we resolve the question of separation for the corresponding rank 3 primitive groups and give the first known examples of synchronising but not $\mathbb{Q}\mathrm{I}$ groups of affine type.
 </font>
 </p>
@@ -156,7 +156,7 @@ With John Bamberg.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> In this paper we show that  if $\theta$ is a $T$-design of an association scheme $(\Omega, \mathcal{R})$, and the Krein parameters $q_{i,j}^h$ vanish for some $h \not \in T$ and all $i, j \not \in T$  ($i, j, h \neq 0$), then $\theta$ consists of precisely half of the vertices of $(\Omega, \mathcal{R})$ or it is a $T'$-design, where $|T'|>|T|$. 
 We then apply this result to various problems in finite geometry. In particular, we show for the first time that nontrivial $m$-ovoids of generalised octagons of order $(s, s^2)$ do not exist. We give short proofs of similar results for
 (i) partial geometries with certain order conditions;
@@ -182,7 +182,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> Every synchronising permutation group is primitive and of one of three types:
 <i>affine</i>, <i>almost simple</i>, or <i>diagonal</i>.
 We exhibit the first known example of a synchronising diagonal type group. More precisely, we show that $\mathrm{PSL}(2,q)\times \mathrm{PSL}(2,q)$
@@ -205,7 +205,7 @@ With Daniel R. Hawtin.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> Let $q$ be a prime power and $V\cong\mathbb{F}_q^d$. A \emph{$t$-$(d,k,\lambda)_q$ design}, or simply a <i>subspace design</i>, is a pair $\mathcal{D}=(V,\mathcal{B})$, where $\mathcal{B}$ is a subset of the set of all $k$-dimensional subspaces of $V$, with the property that each $t$-dimensional subspace of $V$ is contained in precisely $\lambda$ elements of $\mathcal{B}$. Subspace designs are the \emph{$q$-analogues} of balanced incomplete block designs. Such a design is called <i>block-transitive</i> if its automorphism group $\mathrm{Aut}(\mathcal{D})$ acts transitively on $\mathcal{B}$. It is shown here that if $t\geqslant 2$ and $\mathcal{D}$ is a block-transitive $t$-$(d,k,\lambda)_q$ design then $\mathcal{D}$ is trivial, that is, $\mathcal{B}$ is the set of all $k$-dimensional subspaces of $V$.
 </font>
 </p>
@@ -224,7 +224,7 @@ With Alice C. Niemeyer.
 </summary>
 <br>
 <p>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> We constuct a family of hemisystems of the parabolic quadric $\mathcal{Q}(2d, q)$, for all ranks $d \geqslant 2$ and all odd prime powers $q$, that admit $\Omega_3(q) \cong \mathrm{PSL}_2(q)$. This yields the first known construction for $d \geqslant 4$.
 </font>
 </p>
@@ -242,7 +242,7 @@ With John Bamberg and Melissa Lee.
 </summary>
 <p>
 <br>
-<font color="#848884">
+<font color="#708090">
 <b>Abstract:</b> We generalise the work of Segre (1965), Cameron – Goethals – Seidel (1978), and Vanhove (2011) by showing that nontrivial $m$-ovoids of the dual polar spaces $\mathsf{DQ}(2d,q)$, $\mathsf{DW}(2d-1,q)$ and $\mathsf{DH}(2d-1,q^2)$ $(d>3)$ are hemisystems. We also provide a more general result that holds for regular near polygons.
 </font>
 </p>
