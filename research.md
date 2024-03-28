@@ -42,9 +42,9 @@ details {
   margin-left: 2em;
 }
 summary {
-  margin-left: -3em;
-  text-indent: -42px;
-  padding-left: 42px;
+  margin-left: -1em;
+  text-indent: -45px;
+  padding-left: 45px;
 }
 </style>
 
