@@ -70,7 +70,7 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 </summary>
 <br>
 <p>
-<font color="#A9A9A9">
+<font color="#808080">
 <b>Abstract:</b> For finite classical groups acting naturally on the set of points of their ambient polar spaces,
 the symmetry properties of <i>synchronising</i> and <i>separating</i> are equivalent
 to natural and well-studied problems on the existence of certain configurations
