@@ -203,7 +203,7 @@ With Alice C. Niemeyer.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO
+<b>Abstract:</b> We constuct a family of hemisystems of the parabolic quadric $\mathcal{Q}(2d, q)$, for all ranks $d \ge 2$ and all odd prime powers $q$, that admit $\Omega_3(q) \cong \mathrm{PSL}_2(q)$. This yields the first known construction for $d \ge 4$.
 </p>
 </details>
 
