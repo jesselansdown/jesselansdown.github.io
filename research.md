@@ -71,14 +71,14 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 <br>
 <p>
 <b>Abstract:</b> For finite classical groups acting naturally on the set of points of their ambient polar spaces,
-the symmetry properties of \textit{synchronising} and \emph{separating} are equivalent
+the symmetry properties of <i>synchronising</i> and <i>separating</i> are equivalent
 to natural and well-studied problems on the existence of certain configurations
-in finite geometry. The more general class of \emph{spreading} permutation groups
+in finite geometry. The more general class of <i>spreading</i> permutation groups
 is harder to describe, and it is the purpose of this paper to explore
 this property for finite classical groups. In particular,
 we show that for most finite classical groups, their natural action on the points 
 of its polar space is non-spreading. We develop and use a result on tactical 
-decompositions (an \emph{AB-Lemma})
+decompositions (an <i>AB-Lemma</i>)
 that provides a useful technique for finding witnesses for non-spreading permutation groups.
 We also consider some of the other primitive actions of the classical groups.
 </p>
