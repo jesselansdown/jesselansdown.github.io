@@ -92,7 +92,8 @@ A census of small Schurian association schemes,
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO
+<b>Abstract:</b> Using the classification of transitive groups of degree $n$, for $2 \leqslant n \leqslant 48$,
+we classify the Schurian association schemes of order $n$, and as a consequence, the transitive groups of degree $n$ that are $2$-closed. In addition, we compute the character table of each association scheme and provide a census of important properties. Finally, we compute the $2$-closure of each transitive group of degree $n$, for $2 \leqslant n \leqslant 48$. The results of this classification are made available as a supplementary database.
 </p>
 </details>
 
