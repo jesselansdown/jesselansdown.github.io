@@ -131,7 +131,7 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO
+<b>Abstract:</b> We classify, up to some notoriously hard cases, the vertex-primitive strongly regular graphs which meet both the Delsarte and Hoffman bounds. As a consequence, we resolve the question of separation for the corresponding rank 3 primitive groups and give the first known examples of synchronising but not $\mathbb{Q}\mathrm{I}$ groups of affine type.
 </p>
 </details>
 
