@@ -148,7 +148,14 @@ With John Bamberg.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO
+<b>Abstract:</b> In this paper we show that  if $\theta$ is a $T$-design of an association scheme $(\Omega, \mathcal{R})$, and the Krein parameters $q_{i,j}^h$ vanish for some $h \not \in T$ and all $i, j \not \in T$  ($i, j, h \neq 0$), then $\theta$ consists of precisely half of the vertices of $(\Omega, \mathcal{R})$ or it is a $T'$-design, where $|T'|>|T|$. 
+We then apply this result to various problems in finite geometry. In particular, we show for the first time that nontrivial $m$-ovoids of generalised octagons of order $(s, s^2)$ do not exist. We give short proofs of similar results for
+(i) partial geometries with certain order conditions;
+(ii) thick generalised quadrangles of order $(s,s^2)$;
+(iii) the dual polar spaces
+$\mathsf{DQ}(2d, q)$, $\mathsf{DW}(2d-1,q)$ and $\mathsf{DH}(2d-1,q^2)$, for $d \ge 3$;
+(iv) the Penttila-Williford scheme.
+In the process of (iv), we also consider a natural generalisation of the Penttila-Williford scheme in $\mathsf{Q}^-(2n-1, q)$, $n\geqslant 3$.
 </p>
 </details>
 
