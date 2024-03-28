@@ -70,6 +70,7 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 </summary>
 <br>
 <p>
+<font color="#828282">
 <b>Abstract:</b> For finite classical groups acting naturally on the set of points of their ambient polar spaces,
 the symmetry properties of <i>synchronising</i> and <i>separating</i> are equivalent
 to natural and well-studied problems on the existence of certain configurations
@@ -81,6 +82,7 @@ of its polar space is non-spreading. We develop and use a result on tactical
 decompositions (an <i>AB-Lemma</i>)
 that provides a useful technique for finding witnesses for non-spreading permutation groups.
 We also consider some of the other primitive actions of the classical groups.
+</font>
 </p>
 </details>
 
