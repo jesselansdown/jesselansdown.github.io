@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
+usemathjax: true
 ---
 
 My research interests lie largely in finite incidence geometry, algebraic combinatorics, and computation.
