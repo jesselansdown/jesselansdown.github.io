@@ -70,7 +70,7 @@ With J. Bamberg, M. Giudici, and G. F. Royle.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO
+<b>Abstract:</b> TODO $n\geqslant 1$
 </p>
 </details>
 
