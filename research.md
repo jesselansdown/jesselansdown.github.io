@@ -49,7 +49,7 @@ MathJax = {
 
 <style>
 details {
-  margin-left: 4em;
+  margin-left: 0em;
 }
 summary {
   margin-left: -2em;
