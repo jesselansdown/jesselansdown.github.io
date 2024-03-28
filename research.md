@@ -165,7 +165,11 @@ With John Bamberg, Michael Giudici, and Gordon F. Royle.
 </summary>
 <br>
 <p>
-<b>Abstract:</b> TODO
+<b>Abstract:</b> Every synchronising permutation group is primitive and of one of three types:
+<i>affine</i>, <i>almost simple</i>, or <i>diagonal</i>.
+We exhibit the first known example of a synchronising diagonal type group. More precisely, we show that $\mathrm{PSL}(2,q)\times \mathrm{PSL}(2,q)$
+acting in its diagonal action on $\mathrm{PSL}(2,q)$ is separating, and hence synchronising, for $q=13$ and $q=17$.
+Furthermore, we show that such groups are non-spreading for all prime powers $q$.
 </p>
 </details>
 
