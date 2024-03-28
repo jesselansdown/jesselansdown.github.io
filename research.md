@@ -43,8 +43,8 @@ details {
 }
 summary {
   margin-left: -2em;
-  text-indent: -46px;
-  padding-left: 46px;
+  text-indent: -50px;
+  padding-left: 50px;
 }
 </style>
 
