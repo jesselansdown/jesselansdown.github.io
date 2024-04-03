@@ -65,7 +65,7 @@ summary {
 10.&nbsp;
 Tactical decompositions in finite polar spaces and non-spreading classical group actions
 <i>submitted</i>.
-With J. Bamberg, M. Giudici, and G. F. Royle.
+With John Bamberg, Michael Giudici, and Gordon F. Royle.
 (<i>See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
@@ -93,7 +93,7 @@ We also consider some of the other primitive actions of the classical groups.
 &nbsp;&nbsp;9.&nbsp;
 On Bruen chains,
 <i>submitted</i>.
-With J. Bamberg and G. Van de Voorde.
+With John Bamberg and Geertrui Van de Voorde.
 (<i>See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
