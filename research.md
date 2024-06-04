@@ -62,9 +62,8 @@ summary {
 
 <details>
 <summary>
-10.&nbsp;
-Maximum Erdős-Ko-Rado sets of chambers and their antidesigns in vector-spaces of even dimension
-<i>submitted</i>.
+11.&nbsp;
+Maximum Erdős-Ko-Rado sets of chambers and their antidesigns in vector-spaces of even dimension.
 With Philipp Heering and Klaus Metsch.
 (<i>See <a href="https://arxiv.org/pdf/2406.00740.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
