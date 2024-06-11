@@ -62,6 +62,24 @@ summary {
 
 <details>
 <summary>
+12.&nbsp;
+Rational Delsarte designs and Galois fusions of association schemes.
+With William J. Martin.
+(<i>See <font color="#2a7ae2">abstract.</font></i>)
+</summary>
+<br>
+<p>
+<font color="#708090">
+<b>Abstract:</b> 
+Delsarte theory, more specifically the study of codes and designs in association schemes, has proved invaluable in studying an increasing assortment of association schemes in recent years. Tools motivated by the study of error-correcting codes in the Hamming scheme and combinatorial $t$-designs in the Johnson scheme apply equally well in association schemes with irrational eigenvalues. We assume here that we have a commutative association scheme with irrational eigenvalues and wish to study its Delsarte $T$-designs. We explore when a $T$-design is also a $T'$-design where $T'\supseteq T$ is controlled by the orbits of a Galois group related to the splitting field of the association scheme. We then study Delsarte designs in the association schemes of finite groups, with a detailed exploration of the dicyclic groups.
+</font>
+</p>
+</details>
+
+<!-- Next publication-->
+
+<details>
+<summary>
 11.&nbsp;
 Maximum Erdős-Ko-Rado sets of chambers and their antidesigns in vector-spaces of even dimension.
 With Philipp Heering and Klaus Metsch.
