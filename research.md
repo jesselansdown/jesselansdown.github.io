@@ -65,7 +65,7 @@ summary {
 12.&nbsp;
 Rational Delsarte designs and Galois fusions of association schemes.
 With William J. Martin.
-(<i>See <font color="#2a7ae2">abstract.</font></i>)
+(<i>See <a href="https://arxiv.org/pdf/2406.06991.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
 <p>
