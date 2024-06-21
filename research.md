@@ -63,7 +63,8 @@ summary {
 <details>
 <summary>
 12.&nbsp;
-Rational Delsarte designs and Galois fusions of association schemes.
+Rational Delsarte designs and Galois fusions of association schemes,
+<i>submitted</i>.
 With William J. Martin.
 (<i>See <a href="https://arxiv.org/pdf/2406.06991.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
@@ -81,7 +82,8 @@ Delsarte theory, more specifically the study of codes and designs in association
 <details>
 <summary>
 11.&nbsp;
-Maximum Erdős-Ko-Rado sets of chambers and their antidesigns in vector-spaces of even dimension.
+Maximum Erdős-Ko-Rado sets of chambers and their antidesigns in vector-spaces of even dimension,
+<i>submitted</i>.
 With Philipp Heering and Klaus Metsch.
 (<i>See <a href="https://arxiv.org/pdf/2406.00740.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
@@ -100,7 +102,7 @@ The independence number of this graph was determined in De Beule, Mattheus, Mets
 <details>
 <summary>
 10.&nbsp;
-Tactical decompositions in finite polar spaces and non-spreading classical group actions
+Tactical decompositions in finite polar spaces and non-spreading classical group actions,
 <i>submitted</i>.
 With John Bamberg, Michael Giudici, and Gordon F. Royle.
 (<i>See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
