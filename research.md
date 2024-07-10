@@ -62,6 +62,25 @@ summary {
 
 <details>
 <summary>
+13.&nbsp;
+The synchronisation hierarchy via coherent configurations,
+<i>submitted</i>.
+With John Bamberg.
+(<i>See <font color="#2a7ae2">abstract.</font></i>)
+</summary>
+<br>
+<p>
+<font color="#708090">
+<b>Abstract:</b> 
+ We describe the spreading property for finite transitive permutation groups in terms of properties of their associated coherent configurations, in much the same way that separating and synchronising groups can be described via properties of their orbital graphs. We also show how the other properties in the synchronisation hierarchy naturally fit inside this framework. This combinatorial description allows for more efficient computational tools, and we deduce that every spreading permutation group of degree at most $8191$ is a $\mathbb{Q}$I-group. We also consider design-orthogonality more generally for noncommutative homogeneous coherent configurations.
+</font>
+</p>
+</details>
+
+<!-- Next publication-->
+
+<details>
+<summary>
 12.&nbsp;
 Rational Delsarte designs and Galois fusions of association schemes,
 <i>submitted</i>.
