@@ -66,7 +66,7 @@ summary {
 The synchronisation hierarchy via coherent configurations,
 <i>submitted</i>.
 With John Bamberg.
-(<i>See <font color="#2a7ae2">abstract.</font></i>)
+(<i>See <a href="http://arxiv.org/pdf/2407.07352">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
 <p>
