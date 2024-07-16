@@ -34,7 +34,7 @@ New Zealand<br />
 
 
 **Email:**<br />
-jesse (dot) lansdown (at) canterbury (dot) ac (dot) nz
+jesse (dot) lansdown (dot) a1 (at) tohoku (dot) ac (dot) jp
 
 Below is an interactive illustration of [Desargues' Theorem](https://en.wikipedia.org/wiki/Desargues%27s_theorem). Try dragging the blue dots around!
 
