@@ -36,11 +36,10 @@ New Zealand<br />
 
 **Address:**<br />
 Room 707<br />
-Research Center for Pure and Applied Mathematics<br />
-Graduate School of Information Sciences<br />
+Research Center for Pure and Applied Mathematics,<br />
+Graduate School of Information Sciences,<br />
 Tohoku University, <br />
-6-3-09 Aramaki-Aza-Aoba,<br />
-Aoba-ku, Sendai 980-8579,
+6-3-09 Aramaki-Aza-Aoba, Aoba-ku, Sendai 980-8579,<br />
 Japan<br />
 
 **Email:**<br />
