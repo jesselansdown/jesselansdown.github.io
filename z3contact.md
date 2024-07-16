@@ -24,6 +24,7 @@ PERTH WA 6009<br />
 Australia<br />
 --->
 
+<!---
 **Address:**<br />
 Room 607<br />
 School of Mathematics and Statistics<br />
@@ -31,7 +32,16 @@ Jack Erskine Building<br />
 University of Canterbury<br />
 Christchurch 8140<br />
 New Zealand<br />
+--->
 
+**Address:**<br />
+Room 707<br />
+Research Center for Pure and Applied Mathematics<br />
+Graduate School of Information Sciences<br />
+Tohoku University, <br />
+6-3-09 Aramaki-Aza-Aoba,<br />
+Aoba-ku, Sendai 980-8579,
+Japan<br />
 
 **Email:**<br />
 jesse (dot) lansdown (dot) a1 (at) tohoku (dot) ac (dot) jp
