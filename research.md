@@ -150,8 +150,8 @@ We also consider some of the other primitive actions of the classical groups.
 <summary>
 &nbsp;&nbsp;9.&nbsp;
 On Bruen chains,
-<i>submitted</i>.
-With John Bamberg and Geertrui Van de Voorde.
+ <b><i>Finite Fields and their Applications</i></b>, to appear.
+With John Bamberg and Geertrui Van de Voorde,
 (<i>See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
