@@ -150,9 +150,9 @@ We also consider some of the other primitive actions of the classical groups.
 <summary>
 &nbsp;&nbsp;9.&nbsp;
 On Bruen chains,
- <b><i>Finite Fields and their Applications</i></b>, to appear.
+ <b><i>Finite Fields and their Applications</i></b>, 2024.
 With John Bamberg and Geertrui Van de Voorde,
-(<i>See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
+(<i>See <a href="https://arxiv.org/pdf/2305.01349.pdf">arXiv</a> or <a href="https://doi.org/10.1016/j.ffa.2024.102491">Journal</a>  or  <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
 <p>
@@ -162,7 +162,6 @@ Furthermore, we show that Bruen chains can be realised precisely as the $(q+1)/2
 </font>
 </p>
 </details>
-
 
 <!-- Next publication-->
 
