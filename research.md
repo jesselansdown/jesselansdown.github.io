@@ -122,7 +122,7 @@ The independence number of this graph was determined in De Beule, Mattheus, Mets
 <summary>
 10.&nbsp;
 Tactical decompositions in finite polar spaces and non-spreading classical group actions,
-<i>submitted</i>.
+<b><i>Designs, Codes and Cryptography</i></b>, to appear.
 With John Bamberg, Michael Giudici, and Gordon F. Royle.
 (<i>See <a href="https://arxiv.org/pdf/2403.17576.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
