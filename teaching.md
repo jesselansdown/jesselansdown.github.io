@@ -30,12 +30,13 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 - [(MATH3033)](http://handbooks.uwa.edu.au/unitdetails?code=MATH3033 "MATH3033 Handbook") Geometry, 2018
 
+<!---
 You can view a supplementary video that I prepared for the unit on primal/dual conics and their Caley-Klein geometries below. In it I show how the Euclidean and hyperbolic geometries introduced in class are simply special cases of something more general.
 
 <p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyoTZJI2_2U?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
+--->
 
 <!---
 In Trimester 1, 2020, I lectured two undergraduate units at [Sheridan College](https://www.sheridan.edu.au/):
