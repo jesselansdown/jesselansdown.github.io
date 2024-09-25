@@ -6,7 +6,11 @@ permalink: /Research/
 
 My research is mainly in algebraic combinatorics, in particular the theory of association schemes. My interests also include permutation groups, finite geometry, graph theory, designs and codes, and combinatorial computing.
 
-My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 via [Lansdown &#8594; Bamberg](https://mathscinet.ams.org/mathscinet-getitem?mr=3779039) [&#8594; Cameron](https://mathscinet.ams.org/mathscinet-getitem?mr=3763899) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=1106651) or via [Lansdown &#8594; Niemeyer](https://mathscinet.ams.org/mathscinet-getitem?mr=4110234) [&#8594; Seress](https://mathscinet.ams.org/mathscinet-getitem?mr=1953539) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=837951). 
+My [Erdo&#779;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1254184&target=189017).
+
+<!---
+ via [Lansdown &#8594; Bamberg](https://mathscinet.ams.org/mathscinet-getitem?mr=3779039) [&#8594; Cameron](https://mathscinet.ams.org/mathscinet-getitem?mr=3763899) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=1106651) or via [Lansdown &#8594; Niemeyer](https://mathscinet.ams.org/mathscinet-getitem?mr=4110234) [&#8594; Seress](https://mathscinet.ams.org/mathscinet-getitem?mr=1953539) [&#8594; Erdo&#779;s](https://mathscinet.ams.org/mathscinet-getitem?mr=837951). 
+--->
 
 # Publications
 [See preprints listed on the arXiv](https://arxiv.org/a/0000-0002-8087-1329.html). Note: published versions may differ slightly.
