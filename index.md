@@ -15,3 +15,4 @@ I earned my doctorate jointly from [The University of Western Australia](http://
 
 For a bit of fun, you can see my mathematical ["genealogy"](https://www.mathgenealogy.org/id.php?id=272900) below. Click to zoom.
 
+[![Genealogy](/assets/Jesse_Lansdown_Mathematical_Genealogy.png)](/assets/Jesse_Lansdown_Mathematical_Genealogy.png)
