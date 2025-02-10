@@ -332,12 +332,12 @@ Designs in Finite Geometry, 2020 (available via [RWTH](http://dx.doi.org/10.1815
 
 # Refereeing
 I have refereed for the journals
-- [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics)
 - [Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory)
+- [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics)
 - [Journal of the Australian Mathematical Society](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society)
 - [Designs, Codes and Cryptography](https://www.springer.com/journal/10623)
-- [Electronic Journal of Combinatorics](https://www.combinatorics.org/)
 - [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics)
+- [Electronic Journal of Combinatorics](https://www.combinatorics.org/)
 - [The Australasian Journal of Combinatorics](https://ajc.maths.uq.edu.au/).
 
 
