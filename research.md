@@ -335,6 +335,7 @@ I have refereed for the journals
 - [Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory)
 - [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics)
 - [Journal of the Australian Mathematical Society](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society)
+- [Journal of Pure and Applied Algebra](https://www.sciencedirect.com/journal/journal-of-pure-and-applied-algebra)
 - [Designs, Codes and Cryptography](https://www.springer.com/journal/10623)
 - [Discrete Mathematics](https://www.journals.elsevier.com/discrete-mathematics)
 - [Electronic Journal of Combinatorics](https://www.combinatorics.org/)
