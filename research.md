@@ -74,7 +74,7 @@ With Alexander L. Gavrilyuk, Akihiro Munemasa, and Sho Suda.
 <p>
 <font color="#708090">
 <b>Abstract:</b> 
-A roux scheme is an association scheme formed from a special ``roux'' matrix and the regular permutation representation of an associated group. They were introduced by Iverson and Mixon for their connection to equiangular tight frames and doubly transitive lines. We show how roux matrices can be produced from association schemes and characterise roux schemes for which the neighbourhood of a vertex induces an association scheme possessing the same number of relations as the thin radical. An important example arises from the $64$ equiangular lines in $\mathbb{C}^8$ constructed by Hoggar which we prove is unique (determined by its parameters up to isomorphism). We also characterise roux schemes by their eigenmatrices and provide new families of roux schemes using our construction.
+A roux scheme is an association scheme formed from a special "roux" matrix and the regular permutation representation of an associated group. They were introduced by Iverson and Mixon for their connection to equiangular tight frames and doubly transitive lines. We show how roux matrices can be produced from association schemes and characterise roux schemes for which the neighbourhood of a vertex induces an association scheme possessing the same number of relations as the thin radical. An important example arises from the $64$ equiangular lines in $\mathbb{C}^8$ constructed by Hoggar which we prove is unique (determined by its parameters up to isomorphism). We also characterise roux schemes by their eigenmatrices and provide new families of roux schemes using our construction.
 </font>
 </p>
 </details>
