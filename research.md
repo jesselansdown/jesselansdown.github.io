@@ -68,7 +68,7 @@ summary {
 Roux schemes which carry association schemes locally,
 <i>submitted</i>.
 With Alexander L. Gavrilyuk, Akihiro Munemasa, and Sho Suda.
-(<i>See <font color="#2a7ae2">abstract.</font></i>)
+(<i>See  <a href="http://arxiv.org/pdf/2507.18960">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
 <br>
 <p>
