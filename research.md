@@ -123,7 +123,7 @@ Delsarte theory, more specifically the study of codes and designs in association
 <summary>
 11.&nbsp;
 Maximum Erdős-Ko-Rado sets of chambers and their antidesigns in vector-spaces of even dimension,
-<i>submitted</i>.
+<b><i>Journal of Combinatorial Theory, Series A</i></b>, to appear.
 With Philipp Heering and Klaus Metsch.
 (<i>See <a href="https://arxiv.org/pdf/2406.00740.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
