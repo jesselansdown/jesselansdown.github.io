@@ -34,6 +34,7 @@ Christchurch 8140<br />
 New Zealand<br />
 --->
 
+<!---
 **Address:**<br />
 Room 707<br />
 Research Center for Pure and Applied Mathematics,<br />
@@ -41,9 +42,20 @@ Graduate School of Information Sciences,<br />
 Tohoku University, <br />
 6-3-09 Aramaki-Aza-Aoba, Aoba-ku, Sendai 980-8579,<br />
 Japan<br />
+--->
+
+
+**Address:**<br />
+School of Mathematical and Statistical Sciences,<br />
+Arás de Brún,<br />
+University of Galway, <br />
+University Rd.<br />
+Galway,<br />
+Ireland H91 TK33<br />
+
 
 **Email:**<br />
-jesse (dot) lansdown (dot) a1 (at) tohoku (dot) ac (dot) jp
+jesse (dot) lansdown (at) universityofgalway (dot) ie
 
 Below is an interactive illustration of [Desargues' Theorem](https://en.wikipedia.org/wiki/Desargues%27s_theorem). Try dragging the blue dots around!
 
