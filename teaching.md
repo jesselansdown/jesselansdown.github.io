@@ -12,6 +12,10 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 ## Lecturing
 
+#### [University of Galway](https://www.universityofgalway.ie/)
+
+- [MA3343](https://www.universityofgalway.ie/course-information/module/MA3343) Groups, 2025
+
 #### [University of Canterbury](https://www.canterbury.ac.nz/)
 
 - [(MATH203)](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=math203) Linear Algebra, 2024
