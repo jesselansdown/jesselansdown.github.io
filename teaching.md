@@ -14,6 +14,7 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 
 #### [University of Galway](https://www.universityofgalway.ie/)
 
+- [MA2287](https://www.universityofgalway.ie/course-information/module/MA2287) Complex Analysis, 2026
 - [MA3343](https://www.universityofgalway.ie/course-information/module/MA3343) Groups, 2025
 
 #### [University of Canterbury](https://www.canterbury.ac.nz/)
