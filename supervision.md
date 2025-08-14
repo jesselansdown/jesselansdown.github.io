@@ -15,6 +15,7 @@ The following are some options for PhD and postdoctoral funding:
 - [Hardiman PhD Scholarship](https://www.universityofgalway.ie/hardiman-scholarships/)
 - [Research Ireland Postdoctoral Fellowship](https://research.ie/funding/goipd/)
 - [Marie Skłowdowska-Curie Actions Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+
 Applications are competitive and can take some time to prepare, so please check the deadlines and contact me early.
 
 ## Previous supervision
