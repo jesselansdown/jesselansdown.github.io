@@ -60,11 +60,13 @@ You can view a supplementary video that I prepared for the unit on primal/dual c
 </p>
 --->
 
+<!---
 ## Supervision
 
 - Ann Linehan, Honours, ["Relationships Between Geometric Propositions which Characterise Projective Planes"](/assets/Ann_Linehan-Honours.pdf), co-supervised with John Bamberg, UWA, 2021
 - Dominique Douglas-Smith, Honours, ["Skew Projection"](/assets/Dominique_Douglas-Smith-Honours.pdf), co-supervised with John Bamberg, UWA, 2020.
 - Reymond Akpanya, Bachelor thesis, ["Manipulation diskreter simplizialer Flächen"](/assets/Reymond_Akpanya-Bachelorarbeit.pdf), co-supervised with Alice Niemeyer and Markus Baumeister, RWTH, 2018.
+--->
 
 ## Tutoring
 I have tutored numerous undergraduate courses on linear algebra, calculus and foundational mathematics at the University of Western Australia and the RWTH Aachen University (conducted in German).
