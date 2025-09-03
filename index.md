@@ -9,7 +9,7 @@ layout: home
 </div>
 
 
-I am a Lecturer/Assistant Professor in Mathematics at the University of Galway.
+I am a Lecturer in Mathematics at the University of Galway.
 
 Before coming to Galway I was a [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/) Postdoctoral Fellow at [Tohoku University](https://www.tohoku.ac.jp/en/) and prior to that I held postdoctoral positions at the [University of Canterbury](https://www.canterbury.ac.nz/) and [The University of Western Australia](http://www.uwa.edu.au/). I earned my doctorate jointly from the University of Western Australia and the [RWTH Aachen University](http://www.rwth-aachen.de/).
 
