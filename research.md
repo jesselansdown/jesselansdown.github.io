@@ -104,7 +104,7 @@ With John Bamberg.
 <summary>
 12.&nbsp;
 Rational Delsarte designs and Galois fusions of association schemes,
-<i>Canadian Mathematical Bulletin</i>, accepted.
+<b><i>Canadian Mathematical Bulletin</i></b>, accepted.
 With William J. Martin.
 (<i>See <a href="https://arxiv.org/pdf/2406.06991.pdf">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
