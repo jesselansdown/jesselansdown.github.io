@@ -85,7 +85,7 @@ A roux scheme is an association scheme formed from a special "roux" matrix and t
 <summary>
 13.&nbsp;
 The synchronisation hierarchy via coherent configurations,
-<b><i>Linear Algebra and its Applications</i><b>, to appear.
+<b><i>Linear Algebra and its Applications</i></b>, to appear.
 With John Bamberg.
 (<i>See <a href="http://arxiv.org/pdf/2407.07352">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
