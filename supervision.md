@@ -4,19 +4,37 @@ title: Supervision
 permalink: /Supervision/
 ---
 
-# Prospective students and postdocs
+# Prospective postdocs
 
+If you are interested in doing a postdoc with me, then the following funding options may be of interest:
+
+The following are some options for PhD and postdoctoral funding:
+- [Government of Ireland Postdoctoral Fellowship Programme](https://www.researchireland.ie/funding/government-ireland-postdoctoral/)
+- [Marie Skłowdowska-Curie Actions Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+
+Applications are competitive and can take some time to prepare, so please check the deadlines and contact me early.
+
+<!--- 
+# Prospective students and postdocs
+--->
+
+<!--- 
 If you are interested in doing a MSc, PhD, or postdoc with me, then please send me an email introducing yourself and why you want to work with me, along with your CV.
+--->
 <!--- 
 I will want to see that you have the ability and motivation to pursue research in an area that aligns with my interests and expertise.
 --->
+<!--- 
 The following are some options for PhD and postdoctoral funding:
 - [Government of Ireland Postgraduate Scholarship Programme](https://www.researchireland.ie/funding/government-ireland-postgraduate/)
 - [Hardiman PhD Scholarship](https://www.universityofgalway.ie/hardiman-scholarships/)
 - [Government of Ireland Postdoctoral Fellowship Programme](https://www.researchireland.ie/funding/government-ireland-postdoctoral/)
 - [Marie Skłowdowska-Curie Actions Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+--->
 
+<!--- 
 Applications are competitive and can take some time to prepare, so please check the deadlines and contact me early.
+--->
 
 ## Previous supervision
 
