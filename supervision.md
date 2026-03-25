@@ -4,7 +4,9 @@ title: Supervision
 permalink: /Supervision/
 ---
 
+<!--- 
 # Prospective postdocs
+--->
 
 If you are interested in doing a postdoc with me, then the following funding options may be of interest:
 - [Government of Ireland Postdoctoral Fellowship Programme](https://www.researchireland.ie/funding/government-ireland-postdoctoral/)
