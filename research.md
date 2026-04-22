@@ -66,7 +66,7 @@ summary {
 <summary>
 14.&nbsp;
 Roux schemes which carry association schemes locally,
-<b><i>Journal of Combinatorial Theory, Series A</i></b>, accepted.
+<b><i>Journal of Combinatorial Theory, Series A</i></b>, 2026.
 With Alexander L. Gavrilyuk, Akihiro Munemasa, and Sho Suda.
 (<i>See  <a href="http://arxiv.org/pdf/2507.18960">arXiv</a> or <a href="https://doi.org/10.1016/j.jcta.2026.106198">Journal</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
