@@ -15,7 +15,7 @@ I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/stud
 - [(MA3343)](https://www.universityofgalway.ie/course-information/module/MA3343) Groups
 - [(MA3101)](https://www.universityofgalway.ie/course-information/module/MA3101) Euclidean and Non-Euclidean Geometry
 
-## Lecturing - previously
+## Past lecturing
 
 #### [University of Galway](https://www.universityofgalway.ie/)
 
