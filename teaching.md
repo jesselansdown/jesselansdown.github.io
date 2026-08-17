@@ -10,7 +10,12 @@ In 2020 I was admitted as a Fellow of the Higher Education Academy ([FHEA](https
 
 I have a [Graduate Certificate in Tertiary Teaching](https://www.uwa.edu.au/study/courses/graduate-certificate-in-tertiary-teaching) from the University of Western Australia and am a Fellow of the Higher Education Academy ([FHEA](https://www.advance-he.ac.uk/fellowship)).
 
-## Lecturing
+## Lecturing - Semester 1, 2026
+
+- [(MA3343)](https://www.universityofgalway.ie/course-information/module/MA3343) Groups
+- [(MA3101)](https://www.universityofgalway.ie/course-information/module/MA3101) Euclidean and Non-Euclidean Geometry
+
+## Lecturing - previously
 
 #### [University of Galway](https://www.universityofgalway.ie/)
 
