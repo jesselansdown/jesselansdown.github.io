@@ -37,7 +37,7 @@ Applications are competitive and can take some time to prepare, so please check 
 --->
 
 ## Current supervision
-- Jake Rigg, PhD, *TBA*, Galway
+- Jacob Rigg, PhD, *TBA*, Galway
 
 ## Previous supervision
 
