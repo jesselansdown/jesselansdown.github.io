@@ -36,6 +36,9 @@ The following are some options for PhD and postdoctoral funding:
 Applications are competitive and can take some time to prepare, so please check the deadlines and contact me early.
 --->
 
+## Current supervision
+- Jake Rigg, PhD, *TBA*, Galway
+
 ## Previous supervision
 
 - Sinéad Buggy & Neesha Duggan, Final Year Project, ["Using Ant Colony Optimisation with Symmetry-Breaking on the Maximum Clique Problem"](/assets/FYP26_SineadBuggy_NeeshaDuggan.pdf), Galway, 2026.
