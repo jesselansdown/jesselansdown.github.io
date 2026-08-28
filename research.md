@@ -64,6 +64,26 @@ summary {
 
 <details>
 <summary>
+15.&nbsp;
+On the spherical design properties of a $P$- and $Q$-polynomial association scheme,
+<b><i>Submitted</i></b>,
+With William J. Martin, Akihiro Munemasa, Sho Suda, and Hajime Tanaka.
+(<i>See  <a href="https://arxiv.org/abs/2608.27082">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
+</summary>
+<br>
+<p>
+<font color="#708090">
+<b>Abstract:</b> 
+We show that the strength as a spherical design of the spherical embedding of a $P$- and $Q$-polynomial association scheme with at least three classes with respect to a $Q$-polynomial idempotent is at most five, provided that the multiplicity is at least three. We also identify the examples that attain this upper bound on the strength. Our result improves on Suda's earlier upper bound of eight [J. Combin. Des. 19 (2011)], and is considered dual to the results of Lewis [Discrete Math. 223 (2000)] and Miklavič [Electron. J. Combin. 32 (2025)] concerning the girth of a Q-polynomial distance-regular graph with diameter and valency both at least three. To establish our upper bound, we introduce and discuss a polynomial method that works by constructing an appropriate polynomial that vanishes at every point of the spherical embedding. 
+</font>
+</p>
+</details>
+
+
+<!-- Next publication-->
+
+<details>
+<summary>
 14.&nbsp;
 Roux schemes which carry association schemes locally,
 <b><i>Journal of Combinatorial Theory, Series A</i></b>, 2026.
