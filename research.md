@@ -66,7 +66,7 @@ summary {
 <summary>
 15.&nbsp;
 On the spherical design properties of a $P$- and $Q$-polynomial association scheme,
-<b><i>Submitted</i></b>,
+<i>Submitted</i>,
 With William J. Martin, Akihiro Munemasa, Sho Suda, and Hajime Tanaka.
 (<i>See  <a href="https://arxiv.org/abs/2608.27082">arXiv</a> or <font color="#2a7ae2">abstract.</font></i>)
 </summary>
