@@ -55,3 +55,107 @@ $on-laptop:        800px;
         text-align: center;
     }
 }
+
+/* Animated graph behind the existing site header/navigation. */
+.graph-site-header {
+    position: relative;
+    overflow: hidden;
+    min-height: 110px;
+    background: $background-color;
+    z-index: 10;
+}
+
+.graph-site-header #graph-banner-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.graph-header-wrapper {
+    position: relative;
+    z-index: 1;
+    min-height: 110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+}
+
+.graph-site-header .site-title,
+.graph-site-header .site-nav {
+    position: relative;
+    z-index: 2;
+    flex-shrink: 0;
+}
+
+.graph-site-header .site-nav {
+    display: flex;
+    align-items: center;
+}
+
+.graph-site-header .site-title {
+    background: rgba(253, 253, 253, 0);
+    padding-left: 0.15em;
+    padding-right: 0.15em;
+    white-space: nowrap;
+    margin-top: 30px;
+}
+
+.graph-site-header .site-nav .page-link {
+    background: rgba(253, 253, 253, 0);
+    margin-left: 8px;
+    padding: 2px 4px;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+@media screen and (max-width: $on-palm) {
+    .graph-site-header,
+    .graph-header-wrapper {
+        min-height: 100px;
+    }
+
+    .graph-site-header .site-nav .page-link {
+        background: $background-color;
+        white-space: nowrap;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .graph-site-header #graph-banner-canvas {
+        display: none;
+    }
+}
+
+
+/* --- Animated Petersen graph header --- */
+.site-header {
+  position: relative;
+  overflow: hidden;
+}
+
+.site-header .wrapper {
+  position: relative;
+  z-index: 2;
+}
+
+.graph-banner-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.72;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .graph-banner-canvas {
+    opacity: 0.55;
+  }
+}
