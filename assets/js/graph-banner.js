@@ -5,6 +5,19 @@
   const ctx = canvas.getContext("2d");
   const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
+  // Restore animation state from sessionStorage to continue seamlessly across page navigation
+  let startTime = performance.now();
+  const savedAnimationTime = sessionStorage.getItem('petersen-animation-time');
+  if (savedAnimationTime && !isNaN(parseFloat(savedAnimationTime))) {
+    startTime = performance.now() - parseFloat(savedAnimationTime);
+  }
+
+  // Save animation state before navigating away
+  window.addEventListener('beforeunload', () => {
+    const currentTime = performance.now() - startTime;
+    sessionStorage.setItem('petersen-animation-time', currentTime.toString());
+  });
+
   // Petersen graph: outer 5-cycle, inner pentagram, and spokes.
   const edges = [
     [0,1],[1,2],[2,3],[3,4],[4,0],
@@ -35,16 +48,13 @@
   new ResizeObserver(resize).observe(canvas);
   resize();
 
-  function easeInOut(t) {
-    return t < 0.5 ? 2*t*t : 1 - Math.pow(-2*t + 2, 2)/2;
-  }
-
   function draw(ms) {
-    const t = reducedMotion ? 0 : ms * 0.00016;
+    const elapsed = ms - startTime;
+    const t = reducedMotion ? 0 : elapsed * 0.00016;
 
     ctx.clearRect(0, 0, width, height);
 
-    // One complete back-and-forth journey.
+    // Triangle wave for immediate bouncing at edges
     let travel = (t*0.3) % 2;
     if (travel > 1) travel = 2 - travel;
 
