@@ -5,19 +5,6 @@
   const ctx = canvas.getContext("2d");
   const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-  // Restore animation state from sessionStorage to continue seamlessly across page navigation
-  let startTime = performance.now();
-  const savedAnimationTime = sessionStorage.getItem('petersen-animation-time');
-  if (savedAnimationTime) {
-    startTime = performance.now() - parseFloat(savedAnimationTime);
-  }
-
-  // Save animation state before navigating away
-  window.addEventListener('beforeunload', () => {
-    const currentTime = performance.now() - startTime;
-    sessionStorage.setItem('petersen-animation-time', currentTime.toString());
-  });
-
   // Petersen graph: outer 5-cycle, inner pentagram, and spokes.
   const edges = [
     [0,1],[1,2],[2,3],[3,4],[4,0],
@@ -48,13 +35,16 @@
   new ResizeObserver(resize).observe(canvas);
   resize();
 
+  function easeInOut(t) {
+    return t < 0.5 ? 2*t*t : 1 - Math.pow(-2*t + 2, 2)/2;
+  }
+
   function draw(ms) {
-    const elapsed = ms - startTime;
-    const t = reducedMotion ? 0 : elapsed * 0.00016;
+    const t = reducedMotion ? 0 : ms * 0.00016;
 
     ctx.clearRect(0, 0, width, height);
 
-    // Triangle wave for immediate bouncing at edges
+    // One complete back-and-forth journey.
     let travel = (t*0.3) % 2;
     if (travel > 1) travel = 2 - travel;
 
@@ -76,18 +66,18 @@
       const vertexPhase = i * (Math.PI * 2 / 10);
 
       // Gentle vertical displacement - vertices move up and down slowly
-      const verticalShift = 0.25 * Math.sin(t * 0.9 + vertexPhase);
+      const verticalShift = 0.25 * Math.sin(t * 3 + vertexPhase);
 
       // Gentle horizontal displacement - creates swirling motion
-      const horizontalShift = 0.22 * Math.cos(t * 0.75 + vertexPhase);
+      const horizontalShift = 0.22 * Math.cos(t * 2 + vertexPhase);
 
       // Radial pulsing - vertices move closer and farther from center
       const distFromCenter = Math.sqrt(x*x + y*y);
-      const radialPulse = 1 + 0.18 * Math.sin(t * 0.65 + vertexPhase) * distFromCenter;
+      const radialPulse = 1 + 0.18 * Math.sin(t * 4 + vertexPhase) * distFromCenter;
 
       // Gentle stretching that shifts the whole shape
-      const stretchX = 1 + 0.12 * Math.sin(t * 0.55);
-      const stretchY = 1 + 0.10 * Math.cos(t * 0.48);
+      const stretchX = 1 + 0.12 * Math.sin(t * 3);
+      const stretchY = 1 + 0.10 * Math.cos(t * 2);
 
       // Apply stretching first
       let xx = x * stretchX;
