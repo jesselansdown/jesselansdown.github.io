@@ -8,15 +8,33 @@
   // Track total elapsed time across page loads
   const pageLoadTime = performance.now();
   const savedTime = parseFloat(sessionStorage.getItem('petersen-elapsed') || '0');
-  let lastSaveTime = 0;
+  let lastElapsed = savedTime;
 
-  // Save animation state before leaving
+  // Save animation state before leaving and periodically during animation
+  function saveAnimationState(elapsed) {
+    try {
+      sessionStorage.setItem('petersen-elapsed', elapsed.toString());
+      lastElapsed = elapsed;
+    } catch (e) {
+      console.warn('Failed to save animation state:', e);
+    }
+  }
+
+  // Save before page unload
   window.addEventListener('beforeunload', () => {
     if (!reducedMotion) {
       const elapsed = (performance.now() - pageLoadTime) + savedTime;
-      sessionStorage.setItem('petersen-elapsed', elapsed.toString());
+      saveAnimationState(elapsed);
     }
   });
+
+  // Also save periodically (every 500ms) to ensure we don't lose state
+  setInterval(() => {
+    if (!reducedMotion) {
+      const elapsed = (performance.now() - pageLoadTime) + savedTime;
+      saveAnimationState(elapsed);
+    }
+  }, 500);
 
   // Petersen graph: outer 5-cycle, inner pentagram, and spokes.
   const edges = [
